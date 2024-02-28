@@ -1,0 +1,4199 @@
+F. Desch\xc3\xa2tres
+D. Sornette
+Pedro G. Lind
+Marta C. Gonz\xc3\xa1lez
+Hans J. Herrmann
+K.-I. Goh
+B. Kahng
+D. Kim
+M. Rosvall
+A. Gr\xc3\xb6nlund
+P. Minnhagen
+K. Sneppen
+Barbara Drossel
+S. N. Dorogovtsev
+A. V. Goltsev
+J. F. F. Mendes
+Stefanie Muff
+Francesco Rao
+Amedeo Caflisch
+Ming Zhao
+Tao Zhou
+Bing-Hong Wang
+Wen-Xu Wang
+Ralf Stannarius
+Camilla V\xc3\xb6ltz
+J. R. Mureika
+C. C. Dyer
+G. C. Cupchik
+Janusz A. Ho\xc5\x82yst
+Julian Sienkiewicz
+Agata Fronczak
+Piotr Fronczak
+Krzysztof Suchecki
+S. J. Mitchell
+M. A. M. de Aguiar
+Irving R. Epstein
+Yaneer Bar-Yam
+Beom Jun Kim
+Jianbin Liu
+Jaegon Um
+Sung-Ik Lee
+David Gfeller
+Jean-C\xc3\xa9dric Chappelier
+Paolo De Los Rios
+L. A. Braunstein
+Chi-Hang Lam
+Roberta Zambrini
+Maxi San Miguel
+C\xc3\xa9line Durniak
+Majid Taki
+L. Lizana
+Z. Konkoli
+M. C. Santos
+G. M. Viswanathan
+E. P. Raposo
+M. G. E. da Luz
+J. Gorecki
+J. N. Gorecka
+K. Yoshikawa
+Y. Igarashi
+H. Nagahara
+Y. Gopher
+L. Friedland
+A. G. Shagalov
+Bogdan Hnat
+Sandra C. Chapman
+George Rowlands
+Louie H. Yang
+Matthew D. Holland
+Petter Holme
+Young-Pyo Jeon
+Benjamin J. McCoy
+T. S. Evans
+J. P. Saram\xc3\xa4ki
+Hyun-Joo Kim
+Jin Min Kim
+C. V\xc3\xb6ltz
+R. Stannarius
+O. Giraud
+B. Georgeot
+D. L. Shepelyansky
+Jing-Dong Bao
+Yan-Li Song
+Qing Ji
+Yi-Zhong Zhuo
+Gang Yan
+Anne Catll\xc3\xa1
+Jeff Porter
+Mary Silber
+Juyong Park
+M. E. J. Newman
+Kwangho Park
+Ying-Cheng Lai
+Nong Ye
+Jonathan Ozik
+Brian R. Hunt
+Edward Ott
+Alexandre Rosas
+Isabel Gordo
+Paulo R. A. Campos
+Rudolf Hanel
+Stuart A. Kauffman
+Stefan Thurner
+Swati Bhattacharya
+Dami\xc3\xa0 Gomila
+Gian-Luca Oppo
+Isabel P\xc3\xa9rez-Arjona
+V\xc3\xadctor J. S\xc3\xa1nchez-Morcillo
+Jun Ohkubo
+Muneki Yasuda
+Kazuyuki Tanaka
+Danilo Sergi
+Kazuhiro Takemoto
+Chikoo Oosawa
+Meng Zhan
+Raymond Kapral
+Fatihcan M. Atay
+T\xc3\xbcrker B\xc4\xb1y\xc4\xb1ko\xc4\x9flu
+N. Read
+Lazaros K. Gallos
+Panos Argyrakis
+Matja\xc5\xbe Perc
+Ted Brookings
+J. M. Carlson
+John Doyle
+M. \xc3\x81ngeles Serrano
+Mari\xc3\xa1n Bogu\xc3\xb1\xc3\xa1
+M. B. Hastings
+A. Ramezanpour
+S. M. Vaez Allaei
+Karina Laneri
+Alejandro F. Rozenfeld
+Ezequiel V. Albano
+Nicholas Chia
+Ralf Bundschuh
+Kazumoto Iguchi
+Shuichi Kinoshita
+Hiroaki Yamada
+Dong-Hee Kim
+Hawoong Jeong
+David S. Dean
+David Lancaster
+Satya N. Majumdar
+S. B. Yuste
+Katja Lindenberg
+H. Hong
+Hyunggyu Park
+M. Y. Choi
+Cristiano L. Dias
+Martin Dub\xc3\xa9
+Fernando A. Oliveira
+Martin Grant
+J. P. L. Hatchett
+N. S. Skantzos
+T. Nikoletopoulos
+F. C. Santos
+J. F. Rodrigues
+J. M. Pacheco
+Kiyoshi Kotani
+Zbigniew R. Struzik
+Kiyoshi Takamasu
+H. Eugene Stanley
+Yoshiharu Yamamoto
+Baihua Gong
+Lei Yang
+Kongqing Yang
+Erbe P. Rodrigues
+Marconi S. Barbosa
+Luciano da F. Costa
+Okyu Kwon
+Hang-Hyun Jo
+Hie-Tae Moon
+Yongxiang Xia
+Chi K. Tse
+Wai M. Tam
+Francis C. M. Lau
+Michael Small
+R. Lambiotte
+M. Ausloos
+Hari P. Thadakamalla
+R. Albert
+S. R. T. Kumara
+Liang Zhao
+Alidou Mohamadou
+A. Kenfack Jiotsa
+T. C. Kofan\xc3\xa9
+Francesc Comellas
+Hernan D. Rozenfeld
+Daniel ben-Avraham
+Aaron Clauset
+Takao Ohta
+Hidekazu Tokuda
+Bj\xc3\xb6rn Samuelsson
+Carl Troein
+Konstantin Klemm
+Stefan Bornholdt
+Paul E. Parris
+V. M. Kenkre
+K. Scheibye-Knudsen
+C. Ellegaard
+F. Bundgaard
+Thomas Sams
+Chuan Lu
+Yannis C. Yortsos
+P. A. Varotsos
+N. V. Sarlis
+H. K. Tanaka
+E. S. Skordas
+M. J. Gagen
+J. S. Mattick
+Piet Van Mieghem
+Serena M. Magdalena
+James P. Bagrow
+Erik M. Bollt
+Sumiyoshi Abe
+M. F. Laguna
+M. Aldana
+H. Larralde
+P. E. Parris
+Matthew Stapleton
+Kim Christensen
+Pei-Ling Zhou
+Chun-Xia Yang
+Jun Liu
+M. Gedalin
+M. Balikhin
+D. Coca
+G. Consolini
+R. A. Treumann
+Birgitte Freiesleben De Blasio
+Fabio Vittorio De Blasio
+M. Sade
+T. Kalisky
+S. Havlin
+R. Berkovits
+R. E. Amritkar
+Sarika Jalan
+Chin-Kun Hu
+S. N. Taraskin
+Crist\xc3\xb3bal L\xc3\xb3pez
+J. H. Merkin
+I. Z. Kiss
+V\xc3\xadctor M. Egu\xc3\xadluz
+A. V. Kityk
+J. Embs
+V. V. Mekhonoshin
+C. Wagner
+Michael P. H. Stumpf
+Carsten Wiuf
+Richard G. Clegg
+Maurice Dodson
+Romulus Breban
+Raffaele Vardavas
+Sally Blower
+Su-Chan Park
+T. Antal
+P. L. Krapivsky
+S. Redner
+Carlos Felipe Saraiva Pinheiro
+Americo T. Bernardes
+Jae Dong Noh
+Wenqi Duan
+Zhong Chen
+Zengrong Liu
+Wei Jin
+Fangcui Zhao
+Huijie Yang
+Binghong Wang
+M. A. Ambroso
+R. D. Kamien
+D. J. Durian
+Nima Sarshar
+Vwani Roychowdhury
+B. Roy Frieden
+Robert A. Gatenby
+H. \xc5\xa0tefan\xc4\x8di\xc4\x87
+V. Zlati\xc4\x87
+Cristina Primo
+Miguel A. Rodr\xc3\xadguez
+Juan M. L\xc3\xb3pez
+Ivan Szendro
+Matti Peltom\xc3\xa4ki
+Ville Vuorinen
+Mikko Alava
+Martin Rost
+Patrick N. McGraw
+Michael Menzinger
+Nikos S. Skantzos
+Isaac P\xc3\xa9rez Castillo
+Jonathan P. L. Hatchett
+J. D. Noh
+N. Masuda
+Daniel O. Cajueiro
+Sergi Valverde
+Ricard V. Sol\xc3\xa9
+Viktor Kaufman
+Tamara Mihaljev
+Ernesto Estrada
+Juan A. Rodr\xc3\xadguez-Vel\xc3\xa1zquez
+Chunguang Li
+Philip K. Maini
+Tsuyoshi Horiguchi
+Hiroto Shoji
+Kohtaro Yamada
+Deok-Sun Lee
+Takuya Ohzono
+Masatsugu Shimomura
+A. Kabak\xc3\xa7\xc4\xb1o\xc4\x9flu
+A. L. Stella
+Avraham Be\xe2\x80\x99er
+Inbal Hecht
+Haim Taitelbaum
+Tomer Kalisky
+Lidia A. Braunstein
+Sergey V. Buldyrev
+Shlomo Havlin
+E. Oh
+K. Rho
+Soon-Hyung Yook
+Filippo Radicchi
+Hildegard Meyer-Ortmanns
+Marc Durand
+A. S. Kuznetsov
+V. D. Shalfeev
+L. S. Tsimring
+J. C. Gonz\xc3\xa1lez-Avella
+M. G. Cosenza
+K. Tucci
+Yosef Ashkenazy
+A. G. Angel
+M. R. Evans
+E. Levine
+D. Mukamel
+Mart\xc3\xadn G. Zimmermann
+Jordi Duch
+Alex Arenas
+Takashi Ichinomiya
+B. I. Henry
+T. A. M. Langlands
+S. L. Wearne
+Dietrich Stauffer
+Muhammad Sahimi
+Yael Artzy-Randrup
+Lewi Stone
+Mark McDonald
+Omer Suleman
+Stacy Williams
+Sam Howison
+Neil F. Johnson
+Prashant M. Gade
+Sudeshna Sinha
+V. M. Egu\xc3\xadluz
+K. Klemm
+J. L. Herrera
+M. San Miguel
+Ian Clancy
+David Corcoran
+Fengzhong Wang
+Kazuko Yamasaki
+Jin-Sung Park
+Kyoung J. Lee
+Punyabrata Pradhan
+Deepak Dhar
+Jennifer L. Slater
+Barry D. Hughes
+Kerry A. Landman
+Guido Nolte
+Frank C. Meinecke
+Andreas Ziehe
+Klaus-Robert M\xc3\xbcller
+U. Paul
+V. Kaufman
+B. Drossel
+Markus M\xc3\xbcller
+Katja Wegner
+Ursula Kummer
+Gerold Baier
+Andrea Baronchelli
+Luca Dall\xe2\x80\x99Asta
+Alain Barrat
+Vittorio Loreto
+Alexei V\xc3\xa1zquez
+Jo\xc3\xa3o Gama Oliveira
+Zolt\xc3\xa1n Dezs\xc3\xb6
+Kwang-Il Goh
+Imre Kondor
+Albert-L\xc3\xa1szl\xc3\xb3 Barab\xc3\xa1si
+M. N. Kuperman
+M. Le Berre
+E. Ressayre
+A. Tallet
+Boming Yu
+Baowen Li
+Liang Huang
+A. Grabowski
+R. A. Kosi\xc5\x84ski
+L. A. Barbosa
+A. Castro e Silva
+J. Kamphorst Leal da Silva
+Erik Glatt
+Hauke Busch
+Friedemann Kaiser
+Alexei Zaikin
+Zhen Yi Chen
+Xiao Fan Wang
+Jacques Rougemont
+Felix Naef
+Kevin Wood
+Javier Buceta
+Yubing Gong
+Bo Xu
+Qiang Xu
+Chuanlu Yang
+Tingqi Ren
+Zhonghuai Hou
+Houwen Xin
+Wolfgang Pietsch
+Z. Burda
+A. Krzywicki
+O. C. Martin
+Z. Tabor
+A. Vecchio
+L. Primavera
+V. Carbone
+C. T. Zhou
+M. Y. Yu
+X. T. He
+Bo Hu
+Michael Hinczewski
+A. Nihat Berker
+Marco Tomassini
+Leslie Luthi
+Mario Giacobini
+Yu Ding
+Paul Umbanhowar
+Tadashi Kajiya
+Eisuke Nishitani
+Tatsuya Yamaue
+Masao Doi
+Douglas R. White
+Nata\xc5\xa1a Kej\xc5\xbear
+Constantino Tsallis
+Doyne Farmer
+Scott White
+Chikara Furusawa
+Kunihiko Kaneko
+H. E. Roman
+M. Albergante
+M. Colombo
+F. Croccolo
+F. Marini
+C. Riccardi
+Ping-Ping Li
+Da-Fang Zheng
+P. M. Hui
+Takashi Nishikawa
+Adilson E. Motter
+Feng Luo
+Jianxin Zhong
+Yunfeng Yang
+Jizhong Zhou
+Jos\xc3\xa9 J. Ramasco
+Steven A. Morris
+I. Yang
+Yasuaki Kobayashi
+Masaki Sano
+Alessandro P. S. de Moura
+Timol\xc3\xa9on Cr\xc3\xa9pin Kofan\xc3\xa9
+Robert M. Ziff
+Roberto F. S. Andrade
+Jos\xc3\xa9 G. V. Miranda
+Thierry Petit Lob\xc3\xa3o
+X. Sailer
+D. Hennig
+V. Beato
+H. Engel
+L. Schimansky-Geier
+Suhan Ree
+Gr\xc3\xa9gory Schehr
+Masudul Haque
+Jan F. Eichner
+Jan W. Kantelhardt
+Armin Bunde
+Fang Wang
+Yamir Moreno
+Yaoru Sun
+Ginestra Bianconi
+Matteo Marsili
+Volkan Sevim
+Per Arne Rikvold
+Sungchul Kwon
+Sungmin Lee
+Yup Kim
+Yukio Hayashi
+Jun Matsukubo
+Shai Carmi
+Erez Y. Levanon
+Eli Eisenberg
+Zhong-Qian Fu
+H. Guclu
+G. Korniss
+M. A. Novotny
+Z. Toroczkai
+Z. R\xc3\xa1cz
+F. Huneus
+W. Lange
+T. Ackemann
+W. C. Man
+H. F. Chau
+Michael J. Barber
+Andreas Krueger
+Tyll Krueger
+Thomas Roediger-Schluga
+M\xc3\xa1rton Karsai
+R\xc3\xb3bert Juh\xc3\xa1sz
+Ferenc Igl\xc3\xb3i
+Y.-H. Eom
+H. Jeong
+Vamsi Kalapala
+Vishal Sanwalani
+Cristopher Moore
+Attila Fekete
+G\xc3\xa1bor Vattay
+Ljupco Kocarev
+Sang Hoon Lee
+Pan-Jun Kim
+Denis Funfschilling
+Michael Dennin
+Andr\xc3\xa9 A. Moreira
+Dem\xc3\xa9trius R. Paula
+Raimundo N. Costa Filho
+Jos\xc3\xa9 S. Andrade, Jr
+E. A. Leicht
+Florian Jansen
+Stefan Hergarten
+Alessio Cardillo
+Salvatore Scellato
+Vito Latora
+Sergio Porta
+Katharina A. Lehmann
+Hendrik D. Post
+Michael Kaufmann
+Jes\xc3\xbas G\xc3\xb3mez-Garde\xc3\xb1es
+Chang-Yong Lee
+Sunghwan Jung
+A. Kolakowska
+P. S. Verma
+Pascal Cr\xc3\xa9pey
+Fabi\xc3\xa1n P. Alvarez
+Marc Barth\xc3\xa9lemy
+R. Silva
+G. S. Fran\xc3\xa7a
+C. S. Vilar
+J. S. Alcaniz
+Peter F. Stadler
+A. A. Golovin
+A. A. Nepomnyashchy
+Safia Yonker
+Renate Wackerbauer
+Hamed Seyed-allaei
+Paolo Crucitti
+Jian-Zhen Chen
+Wei Liu
+Jian-Yang Zhu
+Diego Garlaschelli
+Maria I. Loffredo
+UnCheol Lee
+Seunghwan Kim
+Ki-Young Jung
+Miki U. Kobayashi
+Tsuyoshi Mizuguchi
+Sameet Sreenivasan
+Satoru Morita
+A. M. Lacasta
+J. M. Sancho
+F. Sagu\xc3\xa9s
+Woo Cheol Jun
+Gabjin Oh
+Lifang Dong
+Weili Fan
+Yafeng He
+Fucheng Liu
+Shufeng Li
+Ruiling Gao
+Long Wang
+Chuan-Yang Yin
+Yan-Bo Xie
+T. Hanney
+Zolt\xc3\xa1n Eisler
+J\xc3\xa1nos Kert\xc3\xa9sz
+R. Heylen
+J. Busquets Blanco
+D. Boll\xc3\xa9
+Avi Ma\xe2\x80\x99ayan
+Azi Lipshtat
+Ravi Iyengar
+R. B. Thompson
+Thomas Petermann
+Erik M. Rauch
+C. W. Ma
+K. Y. Szeto
+Zaofeng Pan
+Xiang Li
+Xiaofang Wang
+David G. M\xc3\xadguez
+Gonzalo G. Iz\xc3\xbas
+Alberto P. Mu\xc3\xb1uzuri
+D. V. Foster
+S. A. Kauffman
+J. E. S. Socolar
+Francesco Papoff
+Zhi-Xi Wu
+Xin-Jian Xu
+Ying-Hai Wang
+C. J. Keylock
+Cosma Rohilla Shalizi
+Robert Haslinger
+Jean-Baptiste Rouquier
+Kristina Lisa Klinkner
+Reuven Cohen
+Qi Xuan
+Yanjun Li
+Tie-Jun Wu
+Junshan Zhang
+Z. Dezs\xc3\xb6
+E. Almaas
+A. Luk\xc3\xa1cs
+B. R\xc3\xa1cz
+I. Szakad\xc3\xa1t
+A.-L. Barab\xc3\xa1si
+T. Qiu
+B. Zheng
+F. Ren
+S. Trimper
+Marko Marhl
+R. Xulvi-Brunet
+W. Pietsch
+I. M. Sokolov
+G. Gy\xc3\xb6rgyi
+P. C. W. Holdsworth
+B. Portelli
+R. Guimer\xc3\xa0
+L. Danon
+A. D\xc3\xadaz-Guilera
+F. Giralt
+A. Arenas
+Guanrong Chen
+Adam Lipowski
+Michel Droz
+M. Baiesi
+S. S. Manna
+Justin Stambaugh
+Daniel P. Lathrop
+Wolfgang Losert
+Zdravko Kutnjak
+Samo Kralj
+Gojmir Lahajnar
+Slobodan \xc5\xbdumer
+\xc3\x89va Jakab
+Dezs\xc5\x91 Horv\xc3\xa1th
+John H. Merkin
+Stephen K. Scott
+P\xc3\xa9ter L. Simon
+\xc3\x81gota T\xc3\xb3th
+Ikuo Nakamura
+Han Zhu
+Xinran Wang
+S. Portet
+J. A. Tuszynski
+J. M. Dixon
+M. V. Sataric
+Bo S\xc3\xb6derberg
+Hidetsugu Sakaguchi
+Norio Fujimoto
+Ding-wei Huang
+Brajendra K. Singh
+Neelima Gupte
+Derek Y. C. Chan
+Alex S. Leong
+William J. Reed
+Andrea Capocci
+Guido Caldarelli
+Javier B. G\xc3\xb3mez
+Amalio F. Pacheco
+\xc3\x81lvaro Corral
+Per \xc3\x96stborn
+Sven \xc3\x85berg
+Gunnar Ohl\xc3\xa9n
+Celso Grebogi
+Mateu Llas
+Pablo M. Gleiser
+Albert D\xc3\xadaz-Guilera
+Fredrik Liljeros
+Christofer R. Edling
+Matthias Weiss
+Andrea Benucci
+Paul F. M. J. Verschure
+Peter K\xc3\xb6nig
+J.-P. Onnela
+A. Chakraborti
+K. Kaski
+J. Kert\xc3\xa9sz
+A. Kanto
+F. Lillo
+R. N. Mantegna
+Fl\xc3\xa1vio Montenegro
+Jos\xc3\xa9 R. A. Torre\xc3\xa3o
+Nelson Maculan
+J\xc3\xb6rn Davidsen
+Istv\xc3\xa1n Z. Kiss
+John L. Hudson
+Carl Herrmann
+Paolo Provero
+Christopher J. Hemming
+Larry S. Liebovitch
+Ira B. Schwartz
+J. Buceta
+Ma \xc3\x81ngeles Serrano
+Ala Trusina
+Petter Minnhagen
+S. Itzkovitz
+R. Milo
+N. Kashtan
+G. Ziv
+U. Alon
+S. Lehmann
+B. Lautrup
+A. D. Jackson
+Marcin Molski
+Jerzy Konarski
+H.-W. M\xc3\xbcller
+K. Knorr
+Claes Andersson
+Alexander Hellervik
+Kristian Lindgren
+Anders Hagson
+Jonas Tornberg
+Miguel Hoyuelos
+Mat\xc3\xadas dell\xe2\x80\x99Erba
+J. F. Eichner
+E. Koscielny-Bunde
+A. Bunde
+H.-J. Schellnhuber
+Emilio Hern\xc3\xa1ndez-Garc\xc3\xada
+Oreste Piro
+L\xc3\xa1szl\xc3\xb3 Zal\xc3\xa1nyi
+G\xc3\xa1bor Cs\xc3\xa1rdi
+Tam\xc3\xa1s Kiss
+M\xc3\xa1t\xc3\xa9 Lengyel
+Rebecca Warner
+Jan Tobochnik
+P\xc3\xa9ter \xc3\x89rdi
+Henri Leung
+Ravi Kothari
+Ali A. Minai
+Jacopo Bellazzini
+Giulia Menconi
+Massimiliano Ignaccolo
+Guido Buresti
+Paolo Grigolini
+O. Alvarez-Llamoza
+Tae-Chang Jo
+Dieter Armbruster
+C. G. Shao
+Z. Z. Liu
+J. F. Wang
+J. Luo
+Teruhiko Tamura
+Jousuke Kuroiwa
+Shigetoshi Nara
+V. B. Kazantsev
+V. I. Nekorkin
+S. Binczak
+J. M. Bilbault
+M. Pesch
+E. Gro\xc3\x9fe Westhoff
+M. Mobilia
+S. H. Davis
+P. W. Voorhees
+Daun Jeong
+H. Fort
+I. Graham
+C. C. Matthai
+Giovanni Bonanno
+Fabrizio Lillo
+Rosario N. Mantegna
+Christopher R. Myers
+Romualdo Pastor-Satorras
+Sheng-You Huang
+Xian-Wu Zou
+Zhi-Jie Tan
+Zhi-Gang Shao
+Zhun-Zhi Jin
+Seth A. Veitzer
+Brent M. Troutman
+Vijay K. Gupta
+Franti\xc5\xa1ek Slanina
+Joachim Krug
+Miroslav Kotrla
+D. Ariosa
+James W. Kirchner
+Vladimir Batagelj
+Ulrik Brandes
+B. Kaulakys
+V. Gontis
+M. Alaburda
+D.-H. Kim
+G. J. Rodgers
+Vladimir Alvarado
+Sara Nadiv Soffer
+Michele Catanzaro
+Jeffrey L. Rogers
+Werner Pesch
+Oliver Brausch
+Michael F. Schatz
+Andreas Galka
+Ulrich Stephani
+Hiltrud Muhle
+Claudio Castellano
+Federico Cecconi
+Domenico Parisi
+Jonathan P. K. Doye
+Claire P. Massen
+S. Bohn
+L. Pauchard
+Y. Couder
+Michel L. Goldstein
+Gary G. Yen
+Yong Chen
+Shalev Itzkovitz
+Uri Alon
+Martine Le Berre
+Elisabeth Ressayre
+Andr\xc3\xa9e Tallet
+Mustapha Tlidi
+Shi-Jie Yang
+L. E. Helseth
+T. M. Fischer
+Luciano da Fontoura Costa
+Luis Diambra
+Massimo Marchiori
+Y. Bar-Yam
+Dibyendu Das
+Imre M. J\xc3\xa1nosi
+Rolf M\xc3\xbcller
+Changsong Zhou
+J\xc3\xbcrgen Kurths
+J. Platkiewicz
+B. Andreotti
+M. Adda-Bedia
+Jan Nagler
+Jens Christian Claussen
+J. C. Nacher
+N. Ueda
+M. Kanehisa
+T. Akutsu
+Luca Salasnich
+Dranreb Earl Juanico
+Christopher Monterola
+Caesar Saloma
+Wen-Yuan Xiong
+Mitsuru Yoneyama
+Koichi Kawahara
+J. G. Oliveira
+Carlos P. Herrero
+E. Racca
+A. Porporato
+I. Ispolatov
+A. Yuryev
+David B. Saakian
+Reuven Levitt
+Nadav Kashtan
+Ron Milo
+Michael Itzkovitz
+Etay Ziv
+Robin Koytcheff
+Manuel Middendorf
+Chris Wiggins
+Naoki Masuda
+Hiroyoshi Miwa
+Norio Konno
+G. Mukherjee
+Stijn van Langen
+A. Zadra\xc5\xbeil
+J. D\xe2\x80\x99Hernoncourt
+H. \xc5\xa0ev\xc4\x8d\xc3\xadkov\xc3\xa1
+A. De Wit
+Alexandr A. Ezhov
+Andrei Yu. Khrennikov
+Martin Zapotocky
+S. M. Oversteegen
+C. Vonk
+J. E. G. J. Wijnhoven
+H. N. W. Lekkerkerker
+S. H. Yi
+Vicent Cholvi
+V\xc3\xadctor Laderas
+Luis L\xc3\xb3pez
+Antonio Fern\xc3\xa1ndez
+Martin Bier
+Pablo Echenique
+Hannes Uecker
+Mauro Mobilia
+Ivan T. Georgiev
+Dinghua Shi
+Qinghua Chen
+Liming Liu
+Yuo-Hsien Shiau
+Yih-Ferng Peng
+I. Vragovi\xc4\x87
+E. Louis
+Elena Dubrova
+Maxim Teslenko
+M. Pineda
+Christel Kamp
+Sebasti\xc3\xa1n A. Romano
+M. C. Eguia
+E. L. Albuquerque
+M. S. Vasconcelos
+M. L. Lyra
+F. A. B. F. de Moura
+Juan G. Restrepo
+E. Ben-Naim
+Paulo R. Guimar\xc3\xa3es, Jr.
+Marcus A. M. de Aguiar
+Jordi Bascompte
+Pedro Jordano
+S\xc3\xa9rgio Furtado dos Rei
+Jin-Rong Liang
+Shay Moshel
+Ari Z. Zivotofsky
+Avi Caspi
+Ralf Engbert
+Reinhold Kliegl
+Nouredine Zekri
+Bernard Porterie
+Jean-Pierre Clerc
+Jean-Claude Loraud
+Alexander S. Balankin
+Oswaldo Morales Matamoros
+Bruce R. Pearson
+Willem van de Water
+C. R. Santore
+A. R. Abate
+Ignacio Alvarez-Hamelin
+Alessandro Vespignani
+Ph. Blanchard
+T. Krueger
+A. Ruschhaupt
+Yuanfang Wu
+Lianshou Liu
+Yingdan Wang
+Yuting Bai
+Hongbo Liao
+S. Moghimi-Araghi
+Hyeong-Chai Jeong
+Yong-Yeol Ahn
+T. S. Lo
+K. P. Chan
+N. F. Johnson
+Chris H. Wiggins
+D. S. Clague
+E. K. Wheeler
+Yusuke Kido
+M. De Lucia
+M. Bottaccio
+M. Montuori
+L. Pietronero
+K. H. Ho
+F. K. Chow
+Sitabhra Sinha
+Serge Galam
+E. J. Lee
+F. G. Brady Moreira
+T. Tanizawa
+G. Paul
+R. Cohen
+H. E. Stanley
+Jesse S. A. Bridgewater
+P. Oscar Boykin
+Vwani P. Roychowdhury
+Szabolcs Mike
+J. Doyne Farmer
+Jukka-Pekka Onnela
+Jari Saram\xc3\xa4ki
+Kimmo Kaski
+Philippe Blanchard
+Santo Fortunato
+Tyll Kr\xc3\xbcger
+Francesco Sorrentino
+Mario di Bernardo
+Franco Garofalo
+David L. Alderson
+Lun Li
+Haifeng Wang
+Zhenquan Lin
+Jianhong Ke
+Shuji Ishihara
+Mikiya Otsuji
+Atsushi Mochizuki
+D. Boyer
+O. Miramontes
+J. L. Mateos
+Enzo Marinari
+Guilhem Semerjian
+Valery Van Kerrebroeck
+M.-O. Hongler
+Colin R. McInnes
+B. Waclaw
+Weiguo Song
+Hongyang Zheng
+Jian Wang
+Jian Ma
+Kohyu Satoh
+Makoto Uchida
+Susumu Shirayama
+M. Marder
+Anna Lombardi
+Michael H\xc3\xb6rnquist
+Juli\xc3\xa1n Candia
+Zhen Shao
+Haijun Zhou
+Fabien Viger
+Cun-Hui Zhang
+Eric D. Kolaczyk
+Hern\xc3\xa1n D. Rozenfeld
+Gerald A. Miller
+Yi Y. Shi
+Hong Qian
+Karol Bomsztyk
+J. S. Kim
+G. Salvi
+A. Provata
+Th. Oikonomou
+M. A. D. Roa
+M. Copelli
+O. Kinouchi
+N. Caticha
+James P. Gleeson
+Diarmuid J. Cahalane
+Wen-Jie Bai
+Wei-Ke Xiao
+Eduardo L\xc3\xb3pez
+Zolt\xc3\xa1n Toroczkai
+C. Van den Broeck
+R. Kawai
+F. Bassetti
+M. Cosentino Lagomarsino
+B. Bassetti
+P. Jona
+Daniele Vilone
+Sooeyon Yoon
+K. F. Tiampo
+J. B. Rundle
+W. Klein
+J. Holliday
+J. S. S\xc3\xa1 Martins
+C. D. Ferguson
+Gonzalo Travieso
+M. A. de la Casa
+F. J. de la Rubia
+Plamen Ch. Ivanov
+Sheng-Jun Wang
+An-Cai Wu
+Adrian Jacobo
+Manuel A. Mat\xc3\xadas
+Pere Colet
+Daishin Ueyama
+Jieun Jeong
+Piotr Berman
+Pragya Shukla
+Markus Hilt
+Walter Zimmermann
+Fulvio Baldovin
+Attilio L. Stella
+Iv\xc3\xa1n Campos Silva
+Omar Antonio Mart\xc3\xadnez
+Orlando Susarrey Huerta
+V. V. Gafiychuk
+B. Y. Datsko
+Guanliang Li
+Mao-Bin Hu
+Rui Jiang
+Qing-Song Wu
+Yong-Hong Wu
+Zhenhua Wu
+Cecilia Lagorio
+Zhi-Feng Huang
+Jorge Vi\xc3\xb1als
+S. Boccaletti
+M. Ivanchenko
+V. Latora
+A. Pluchino
+A. Rapisarda
+Attila Szolnoki
+Gy\xc3\xb6rgy Szab\xc3\xb3
+Mikko Kivel\xc3\xa4
+A. D. K. Plato
+Lubos Buzna
+Karsten Peters
+Hendrik Ammoser
+Christian K\xc3\xbchnert
+Dirk Helbing
+Jie Ren
+C. C. Donato
+M. A. F. Gomes
+Chuan-Long Tang
+Bo-Yu Lin
+Yiping Chen
+Gerald Paul
+Stephen P. Borgatti
+D. Dane Quinn
+Richard H. Rand
+Steven H. Strogatz
+Sooyeon Yoon
+Xiaohui Yuan
+Takashi Teramoto
+Yasumasa Nishiura
+E. Mart\xc3\xadnez
+C. P\xc3\xa9rez-Penichet
+O. Sotolongo-Costa
+O. Ramos
+K. J. M\xc3\xa5l\xc3\xb8y
+S. Douady
+E. Altshuler
+R. T. Wicks
+S. C. Chapman
+R. O. Dendy
+S. I. Abarzhi
+O. Desjardins
+A. Nepomnyashchy
+H. Pitsch
+M. Bottiglieri
+C. Godano
+J. Ignacio Alvarez-Hamelin
+Andrea Puglisi
+Feng Qi
+Weiming Wang
+Quan-Xing Liu
+Zhen Jin
+Jing Zhao
+Piotr Jablonski
+Gina R. Poe
+Michal Zochowski
+Pradip B. Shelke
+M. D. Khandkar
+A. G. Banpurkar
+S. B. Ogale
+A. V. Limaye
+Takehisa Hasegawa
+Koji Nemoto
+Samarth Swarup
+Les Gasser
+Eran Sharon
+Beno\xc3\xaet Roman
+Harry L. Swinney
+D. Volchenkov
+Wei Li
+Xiaofan Wang
+Carsten Marr
+Mark M\xc3\xbcller-Linow
+Marc-Thorsten H\xc3\xbctt
+Xingang Wang
+Choy Heng Lai
+Simone Bianco
+Mark S. Rider
+Mary J. Ross
+Phil Winsor
+Wooseop Kwak
+Jae-Suk Yang
+Jang-il Sohn
+In-mook Kim
+Aram Galstyan
+Paul Cohen
+B. Y. Rubinstein
+R. Burioni
+D. Cassi
+F. Corberi
+A. Vezzani
+Ming Li
+Feng Liu
+Feng-Yuan Ren
+Davide Valenti
+Bernardo Spagnolo
+Joan Salda\xc3\xb1a
+Pablo Kaluza
+Mads Ipsen
+Martin Vingron
+Alexander S. Mikhailov
+Anders Johansson
+Habib Zein Al-Abideen
+D.-S. Lee
+Maksim Kitsak
+Massimo Riccaboni
+Fabio Pammolli
+Laetitia Gauvin
+Jean-Pierre Nadal
+Jean Vannimenus
+Didier Samayoa Ochoa
+Israel Andr\xc3\xa9s Miguel
+Juli\xc3\xa1n Pati\xc3\xb1o Ortiz
+Miguel \xc3\x81ngel Mart\xc3\xadnez Cruz
+Yongjin Ko
+Sung-Guk Han
+Chao Zhai
+Hai-Tao Zhang
+Yang Zhao
+Michael Z. Q. Chen
+Zhi-Hai Rong
+Yu Qian
+Xiaodong Huang
+Gang Hu
+Xuhong Liao
+B. Kelleher
+C. Bonatto
+P. Skoda
+S. P. Hegarty
+G. Huyet
+David Foster
+Jacob Foster
+Maya Paczuski
+Peter Grassberger
+Jihad R. Touma
+Amer Shreim
+Leonid I. Klushin
+Hans Hooyberghs
+Bert Van Schaeybroeck
+Jos\xc3\xa9 S. Andrade, Jr.
+Joseph O. Indeke
+Joanna Tomkowicz
+Krzysztof Ku\xc5\x82akowski
+Gautam C. Sethia
+Abhijit Sen
+Andrea Lancichinetti
+J\xc3\xb6rg Lehmann
+Jakob Bernasconi
+I. N. de Oliveira
+J. S. Andrade, Jr.
+E. L. Albuquerqu
+Won-kuk Cho
+Byungjoon Min
+I.-M. Kim
+Jane H. Sheeba
+V. K. Chandrasekar
+M. Lakshmanan
+Sarah Hallerberg
+Diego Paz\xc3\xb3
+Jianxi Gao
+Zhuo Chen
+Yunze Cai
+Xiaoming Xu
+T. S. Jackson
+Jos\xc3\xa9 A. Capit\xc3\xa1n
+Gustav W. Delius
+Yonathan Schwarzkopf
+Zhenyuan Zhao
+J. P. Calder\xc3\xb3n
+Chen Xu
+Guannan Zhao
+Dan Fenn
+Didier Sornette
+Riley Crane
+Pak Ming Hui
+I. I. Eliazar
+J. Sanz
+L. M. Flor\xc3\xada
+Y. Moreno
+Yu-hua Xue
+Liang Li
+Daren He
+Bambi Hu
+Jun-Fang Zhu
+Wenwu Yu
+Elliot Martin
+Reik V. Donner
+Yong Zou
+Jonathan F. Donges
+Norbert Marwan
+A. von Kameke
+F. Huhn
+G. Fern\xc3\xa1ndez-Garc\xc3\xada
+A. P. Mu\xc3\xb1uzuri
+V. P\xc3\xa9rez-Mu\xc3\xb1uzuri
+B. Kutschan
+K. Morawetz
+S. Gemming
+Francisco Aparecido Rodrigues
+Cyril Furtlehner
+Mich\xc3\xa8le Sebag
+Xiangliang Zhang
+Leah B. Shaw
+Darong Lai
+Hongtao Lu
+Christine Nardini
+An Zeng
+Yanqing Hu
+Zengru Di
+Wen-Qi Duan
+Adam B. Barrett
+Lionel Barnett
+Anil K. Seth
+Fei Ren (\xe4\xbb\xbb\xe9\xa3\x9e)
+Wei-Xing Zhou (\xe5\x91\xa8\xe7\x82\x9c\xe6\x98\x9f)
+Oleh E. Omel\xe2\x80\x99chenko
+Matthias Wolfrum
+Yuri L. Maistrenko
+Bertrand Georgeot
+Olivier Giraud
+Dima L. Shepelyansky
+Frank Emmert-Streib
+Takeo Kondo
+Zonghua Liu
+Toyonori Munakata
+Agnes Szejka
+Juliette Stehl\xc3\xa9
+Makiko Negishi
+Takahiro Sakaue
+Kingo Takiguchi
+Kenichi Yoshikawa
+Markus Schl\xc3\xa4pfer
+Konstantinos Trantopoulos
+M. Drew LaMar
+Gregory D. Smith
+Dane Taylor
+Eman Simbawa
+Paul C. Matthews
+Stephen M. Cox
+Alex J. Bladon
+Tobias Galla
+Alan J. McKane
+Jie Zhao
+Olga Nekhamkina
+Moshe Sheintuch
+Sonia Cafieri
+Pierre Hansen
+Leo Liberti
+Luo-Luo Jiang
+Markus Brede
+J\xc3\xb6rg Menche
+Angelo Valleriani
+Reinhard Lipowsky
+Greg J. Stephens
+William Bialek
+Gabriel Juarez
+Richard M. Lueptow
+Julio M. Ottino
+Abhijit Chakraborty
+A. Zaccaria
+M. Cristelli
+V Alfi
+F. Ciulla
+Xiang Ling
+Giacomo Bormetti
+Danilo Delpini
+Peter Ronhovde
+Zohar Nussinov
+Zhongzhi Zhang
+Yi Qi
+Shuigeng Zhou
+Shuyang Gao
+Jihong Guan
+Serge F. Timashev
+Yuriy S. Polyakov
+Pavel I. Misurkin
+Sergey G. Lakeev
+Alberto Lovison
+Gianmarco Manzini
+Amos Maritan
+Mario Putti
+Andrea Rinaldo
+R. F. S. Andrade
+Alexander M. Petersen
+Bin Wu
+Hongjuan Zhang
+Zhigang Wang
+Wassily Lubashevsky
+Ihor Lubashevsky
+Reinhard Mahnke
+Daniel Trpevski
+Wallace K. S. Tang
+Matteo Barigozzi
+Giorgio Fagiolo
+A. A. Moreira
+E. A. Oliveira
+S. D. S. Reis
+H. J. Herrmann
+J. S. Andrade, Jr
+Monojit Choudhury
+Niloy Ganguly
+Abyayananda Maiti
+Animesh Mukherjee
+Lutz Brusch
+Andreas Deutsch
+Fernando Peruani
+Frank Schweitzer
+Chol-Ung Choe
+Thomas Dahms
+Philipp H\xc3\xb6vel
+Eckehard Sch\xc3\xb6ll
+Shrabani Sen
+Pushpita Ghosh
+Syed Shahed Riaz
+Deb Shankar Ray
+Norbert Solymosi
+J. Ruseckas
+Alicia Miralles
+P. Katsaloulis
+Subrata Nandi
+Marko Gosak
+Dean Koro\xc5\xa1ak
+G\xc3\xa1bor Orosz
+Jeff Moehlis
+Francesco Bullo
+Beniamino Guerra
+Julia Poncela
+Seung-Woo Son
+Hyunsuk Hong
+Sergey Melnik
+Adam Hackett
+Leonid S. Metlov
+Sebastian Funk
+Vincent A. A. Jansen
+Rui Yang
+Yu-Han Chen
+Li-Chao Zhao
+Youngdo Kim
+Ashwini V. Mahajan
+Piotr Bialas
+Andrzej K. Ole\xc5\x9b
+Hangmo Yi
+Attilio Milanese
+Jie Sun
+D. Liu
+H. Wang
+P. Van Mieghem
+J. Tang
+S. Scellato
+M. Musolesi
+C. Mascolo
+Han-Xin Yang
+Tam\xc3\xa1s B\xc3\xa1ns\xc3\xa1gi, Jr.
+Sama Ansari
+Milos Dolni
+Cristiano Nisoli
+Nathaniel M. Gabor
+Paul E. Lammert
+J. D. Maynard
+Vincent H. Crespi
+Andre Nathan
+Valmir C. Barbosa
+Tommaso Biancalani
+Duccio Fanelli
+Francesca Di Patti
+Benjamin H. Good
+Yves-Alexandre de Montjoye
+A. Saichev
+Satyam Mukherjee
+Gautam Mukherjee
+Y. S. Cho
+L. Bogacz
+W. Janke
+G. Oshanin
+K. Lindenberg
+O. B\xc3\xa9nichou
+J. Klafter
+Tae-Wook Ko
+G. Bard Ermentrout
+Jozef \xc4\x8cern\xc3\xa1k
+Geir Helgesen
+S. Furuya
+K. Yakubo
+Lasko Basnarkov
+Viktor Urumov
+Yueheng Lan
+Predrag Cvitanovi\xc4\x87
+Tim Rogers
+Reimer K\xc3\xbchn
+Koujin Takeda
+Swarup Poria
+Manish Dev Shrimali
+M. S. Santhanam
+Holger Kantz
+Daichi Kimura
+Yoshinori Hayakawa
+Tiago Simas
+Luis M. Rocha
+Desmond J. Higham
+Naomichi Hatano
+Sune Lehmann
+Martin Schwartz
+Lars Kai Hansen
+D. Pilipenko
+E. A. Brener
+C. H\xc3\xbcter
+Thimo Rohlf
+Xin-Ping Xu
+S\xc3\xa9bastien V\xc3\xa9rel
+Gabriela Ochoa
+Guangwu Yan
+Jianying Zhang
+Huimin Wang
+Li Guo
+Corneliu Rablau
+Prem Vaishnava
+Chandran Sudakar
+Ronald Tackett
+Gavin Lawes
+Ratna Naik
+Y. C. Lin
+Y. W. Lin
+T. M. Hong
+Fran\xc3\xa7ois Englert
+Kasper Peeters
+Anne Taormina
+Antonio Sanchirico
+Mauro Fiorentino
+Madalena Costa
+Ionita Ghiran
+C.-K. Peng
+Anne Nicholson-Weller
+Ary L. Goldberger
+Nelson Lammoglia
+V\xc3\xadctor Mu\xc3\xb1oz
+Jos\xc3\xa9 Rogan
+Benjam\xc3\xadn Toledo
+Roberto Zarama
+Juan Alejandro Valdivia
+Liang Gao
+Fabian Brau
+Benny Davidovitch
+Ute Ebert
+Feng Fu
+U. Bortolozzo
+M. G. Clerc
+S. Residori
+N. Kruszewska
+Vince Ruisi
+Jichang Wang
+Arghya Mondal
+Juergen Kurths
+Hiroshi Watanabe
+Bruno Gon\xc3\xa7alves
+Xuemei Chen
+Eliot Fried
+Bivas Mitra
+Sujoy Ghose
+H. B. Chan
+M. I. Dykman
+C. Stambaugh
+Jigger Cheh
+Hong Zhao
+V. Gudkov
+V. Montealegre
+S. Nussinov
+Z. Nussinov
+S. E. Ahnert
+T. M. A. Fink
+Sabine Lennartz
+Donald L. Turcotte
+A. Cascone
+R. Manzo
+B. Piccoli
+L. Rarit\xc3\xa0
+Andre S. Ribeiro
+Jason Lloyd-Price
+Juha Kesseli
+Antti H\xc3\xa4kkinen
+Olli Yli-Harja
+Mahdi Jalili
+Ali Ajdari Rad
+Martin Hasler
+Sergei Fedotov
+David Moss
+Daniel Campos
+Hitoshi Mahara
+Kosuke Suzuki
+Rumana Akther Jahan
+Tomohiko Yamaguchi
+Nicola Perra
+Li Wang
+Chen-Ping Zhu
+Zhi-Ming Gu
+Christian Rummel
+Kaspar Schindler
+Seung Ki Baek (\xeb\xb0\xb1\xec\x8a\xb9\xea\xb8\xb0)
+Beom Jun Kim (\xea\xb9\x80\xeb\xb2\x94\xec\xa4\x80)
+Mikhail I. Bogachev
+Paul Krapivsky
+Dmitri Krioukov
+Raissa M. D\xe2\x80\x99Souza
+Soumen Roy
+Menghui Li
+Peng Zhang
+Ying Fan
+Gregor Kaczor
+Claudius Gros
+Aneta Stefanovska
+Peter V. E. McClintock
+Dongchuan Yu
+Fang Liu
+Yanghua Xiao
+Ben D. MacArthur
+Hui Wang
+Momiao Xiong
+Wei Wang
+Etienne Mallard
+David Saad
+Andr\xc3\xa9 C. R. Martins
+Enrique Burgos
+Horacio Ceva
+Laura Hern\xc3\xa1ndez
+R. P. J. Perazzo
+Mariano Devoto
+Diego Medan
+Edgardo Brigatti
+Jussi M. Kumpula
+John F. Lindner
+Kelly M. Patton
+Patrick M. Odenthal
+James C. Gallagher
+Barbara J. Breen
+J. D. E. Stokes
+A. A. Samarian
+S. V. Vladimirov
+Jing Wang
+Tatsuya Uezu
+Daniel M. Auto
+Silas Alben
+Nicolas Basalto
+Roberto Bellotti
+Francesco De Carlo
+Paolo Facchi
+Ester Pantaleo
+Saverio Pascazio
+H. Eduardo Roman
+Markus Porto
+Dong-Jin Lee
+X. San Liang
+Anthony C. C. Coolen
+Conrad J. Perez Vicente
+R. Oppermann
+M. J. Schmidt
+Rui Carvalho
+Giulia Iori
+Feng Shi
+Pradeep Sharma
+Donald J. Kouri
+Fazle Hussain
+Gemunu H. Gunaratne
+Zhenqing Ye
+Songnian Hu
+Jun Yu
+Salvatore Assenza
+Luca Ferretti
+A. N. Samukhin
+A. Y. Zyuzin
+Joseph Tranquillo
+Meghan Howes
+\xc3\x89ric Brunet
+Bernard Derrida
+Damien Simon
+Hongbin Chen
+Istvan Z. Kiss
+Darren M. Green
+H. Fan
+Z. Wang
+T. Ohnishi
+H. Saito
+K. Aihara
+Elena Kartashova
+Sergey Nazarenko
+Oleksii Rudenko
+Zahera Jabeen
+Hiroki Ohta
+Shin-ichi Sasa
+Philipp Schuetz
+M. Rypdal
+K. Rypdal
+Andreas Pusch
+Sebastian Weber
+Andrey Komarov
+Fran\xc3\xa7ois Sanchez
+Marcel B. J. Meinders
+Ton van Vliet
+J. M. Tavares
+M. M. Telo da Gama
+A. Nunes
+Ernest Barreto
+Brian Hunt
+Paul So
+Seung Ki Baek
+Su Do Yi
+Carlo Piccardi
+Renato Casagrandi
+Peter Lehmann
+Shmuel Assouline
+Dani Or
+Shuguang Guan
+Choy-Heng Lai
+Mahdi Momeni
+Wolf-Christian M\xc3\xbcller
+Keivan Aghababaei Samani
+Shahzad Ghanbarian
+Vladislav Volman
+Herbert Levine
+Tiago P. Peixoto
+S. Utkin
+Guimei Zhu
+Chuanyang Yin
+Jayati Sarkar
+Ashutosh Sharma
+Vijay B. Shenoy
+C. Jeon
+Maoyin Chen
+Yun Shang
+Pan Zhang
+Lianchun Yu
+Shengli Zhang
+Hamid Seyed-allaei
+Mohammad Reza Ejtehadi
+Paulino R. Villas Boas
+Francisco A. Rodrigues
+J. Pantaleone
+A. Toth
+D. Horvath
+J. Rother McMahan
+R. Smith
+D. Butki
+J. Braden
+E. Mathews
+H. Geri
+J. Maselko
+Vincent D. Blondel
+Jean-Loup Guillaume
+Julien M. Hendrickx
+Cristobald de Kerchove
+Renaud Lambiotte
+David M. D. Smith
+Chiu Fan Lee
+Gabriella Vaglica
+Esteban Moro
+A. S. Stepanenko
+C. C. Constantinou
+I. V. Yurkevich
+I. V. Lerner
+Alejandro Luque
+Bernard Meulenbroek
+Lothar Sch\xc3\xa4fer
+Joshua E. S. Socolar
+Alexei Vazquez
+Svetlana S. Terentyeva
+Yao-Chen Hung
+Yu-Ting Huang
+Ming-Chung Ho
+Muhittin Mungan
+Mart\xc3\xad Rosas-Casals
+Bernat Corominas-Murtra
+A. Garc\xc3\xada Cant\xc3\xba
+E. Abad
+Bing-Wei Li
+Hong Zhang
+He-Ping Ying
+Wen-Qiang Chen
+Elias Bareinboim
+Haluk Bingol
+Leon Danon
+Xiang-Fa Wu
+Yuris A. Dzenis
+Arik Yochelis
+Alan Garfinkel
+Cangtao Zhou
+Qiming Lu
+B. K. Szymanski
+Stefan Braunewell
+Guan-Rong Chen
+Xiaoke Xu
+Jin Zhou
+Jie Zhang
+Junfeng Sun
+Jun-an Lu
+Lang Cao
+Martin Gassel
+Mikael Huss
+Ingo Dierking
+Paul Archer
+Hideyuki Nakanishi
+Masahiro Satoh
+Qui Tran-Cong-Miyata
+Brian Karrer
+Elizaveta Levina
+Michael I. Tribelsky
+Michalis Maragakis
+Sophie Achard
+Danielle S. Bassett
+Andreas Meyer-Lindenberg
+Ed Bullmore
+Lichao Chen
+Lujun Fang
+Tao Zou
+Istv\xc3\xa1n Borsos
+Tam\xc3\xa1s Nepusz
+Andrea Petr\xc3\xb3czi
+L\xc3\xa1szl\xc3\xb3 N\xc3\xa9gyessy
+F\xc3\xbcl\xc3\xb6p Bazs\xc3\xb3
+V. Sood
+Tibor Antal
+M. Valencia
+J. Martinerie
+S. Dupont
+M. Chavez
+Satoshi Kawaguchi
+Masayasu Mimura
+Jianhua Ruan
+Weixiong Zhang
+C. Echeverria
+J. M. Smith
+K. I. Hopcraft
+E. Jakeman
+Jinhu L\xc3\xbc
+Ya-Fang Tu
+Rong-Bin Wei
+Jian-Ping Sang
+P. K. Mohanty
+Xinchu Fu
+David M. Walker
+Haifeng Zhang
+Luciano Telesca
+Rosa Lasaponara
+Eric Forgoston
+Joseph T. Lizier
+Mikhail Prokopenko
+Albert Y. Zomaya
+Domenico Napoletani
+Timothy D. Sauer
+Balazs Kozma
+Darryl D. Holm
+Lennon \xc3\x93 N\xc3\xa1raigh
+Cesare Tronci
+Zhenping Li
+Shihua Zhang
+Rui-Sheng Wang
+Xiang-Sun Zhang
+Luonan Chen
+Serhiy Yanchuk
+Xiaofeng Gong
+C.-H. Lai
+Huijuan Wang
+Javier Martin Hernandez
+V. I. Tokar
+H. Dreyss\xc3\xa9
+Mohammad Mehrafarin
+Nima Pourtolami
+Dominik Heide
+Mirko Sch\xc3\xa4fer
+Martin Greiner
+M. S. Benilov
+C. Papadimitriou
+M. Kalimeri
+K. Eftaxias
+Karl E. K\xc3\xbcrten
+John W. Clark
+M. Torralba
+J. Ort\xc3\xadn
+A. Hern\xc3\xa1ndez-Machado
+E. Corvera Poir\xc3\xa9
+C. E. La Rocca
+P. A. Macri
+Henning Arendt Knudsen
+Bj\xc3\xb8rnar Sandnes
+Eirik Grude Flekk\xc3\xb8y
+Knut J\xc3\xb8rgen M\xc3\xa5l\xc3\xb8y
+Tomas Hruz
+Michal Natora
+Madhuresh Agrawal
+Shingo Tanaka
+Surajit Dhara
+B. K. Sadashiva
+Yoshio Shimbo
+Yoichi Takanishi
+Fumito Araoka
+Ken Ishikawa
+Hideo Takezoe
+Qianshu Li
+Yang Gao
+Meheboob Alam
+Arzhang Khalili
+Gorka Zamora-L\xc3\xb3pez
+Vinko Zlati\xc4\x87
+Hrvoje \xc5\xa0tefan\xc4\x8di\xc4\x87
+Anna Chmiel
+Kamila Kowalska
+Kazue Kudo
+Xiaoming Liang
+Agnieszka Bitner
+Robert Ho\xc5\x82yst
+Marcin Fia\xc5\x82kowski
+Xiaojie Chen
+L. B. L. Santos
+M. C. Costa
+S. T. R. Pinho
+F. R. Barreto
+M. G. Teixeira
+M. L. Barreto
+Qingfei Chen
+Mary Ann F. Harrison
+Gourab Ghoshal
+Bogdan Danila
+Yudong Sun
+Kevin E. Bassler
+Vladimir Filkov
+Xujin Yuan
+Xiaochuan Lu
+Hongli Wang
+Qi Ouyang
+Wenlei Xie
+Mo Li
+Kate L. Morrow
+Todd Rowland
+Christopher M. Danforth
+V. Tejedor
+R. Voituriez
+E. Agliari
+Rui Zhang
+Hugo L. D. de S.Cavalcante
+Zheng Gao
+Daniel J. Gauthier
+Matthew M. Adams
+Florian Greil
+Robert H. Nilson
+Stewart K. Griffiths
+Yen-Chih Lin
+Ji-Ming Sun
+H. W. Yang
+Yeukuang Hwu
+C. L. Wang
+Tzay-Ming Hong
+Sergio G\xc3\xb3mez
+Pablo Jensen
+Marija Mitrovi\xc4\x87
+Bosiljka Tadi\xc4\x87
+T. Okushima
+T. Niiyama
+K. S. Ikeda
+Y. Shimizu
+David P. Sanders
+Joris Billen
+Mark Wilson
+Arlette Baljon
+Avinoam Rabinovitch
+Brian S. White
+David Shalloway
+Aristotelis Kittas
+Sang-Woo Kim (\xea\xb9\x80\xec\x83\x81\xec\x9a\xb0)
+Jae Dong Noh (\xeb\x85\xb8\xec\x9e\xac\xeb\x8f\x99)
+H. M. Singer
+I. Singer
+Lucas Goehring
+Ya. I. Molkov
+D. N. Mukhin
+E. M. Loskutov
+A. M. Feigin
+G. A. Fidelin
+Jeromos Vukov
+Joshua L. Payne
+Peter Sheridan Dodds
+Margaret J. Eppstein
+C. Anteneodo
+Zhihai Rong
+D. E. Postnov
+F. M\xc3\xbcller
+R. B. Schuppner
+Soham Biswas
+Parongama Sen
+Ken Tore Tallakstad
+Grunde L\xc3\xb8voll
+Thomas Ramstad
+Hui Ma
+Andrey Pototsky
+Natalia B. Janson
+L. Ciandrini
+C. Maffi
+A. Motta
+Willem K. Kegel
+Jan Groenewold
+Paolo Allegrini
+Danilo Menicucci
+Remo Bedini
+Leone Fronzoni
+Angelo Gemignani
+Bruce J. West
+Paolo Paradisi
+Anja Garber
+R. Imayama
+Y. Shiwa
+Sergi Lozano
+Yuan Lin
+Qingyun Wang
+Zhisheng Duan
+Tomoya Suzuki
+Yuta Ueoka
+Haruki Sato
+G\xc3\xa9za \xc3\x93dor
+Salvatore Mandr\xc3\xa0
+Tony E. Lee
+G. Refael
+M. C. Cross
+Oleg Kogan
+Duo Sun
+Jian-Guo Liu
+Run-Ran Liu
+Chun-Xiao Jia
+Jia Shao
+C\xc3\xa9cile Appert-Rolland
+R. Huang
+S. K. Nayak
+Subinay Dasgupta
+Raj Kumar Pan
+Tiejun Li
+Jian Liu
+Weinan E
+Gerardo I\xc3\xb1iguez
+Kimmo K. Kaski
+R. A. Barrio
+G. Niccolini
+F. Bosia
+A. Carpinteri
+G. Lacidogna
+A. Manuello
+N. Pugno
+Raul Donangelo
+Sergio R. Souza
+Marcin Leda
+Vladimir K. Vanag
+Svitlana Bugaychuk
+Robert Conte
+Stephen Devlin
+Thomas Treloar
+Jianquan Lu
+Daniel W. C. Ho
+Fragkiskos Papadopoulos
+Amin Vahdat
+Joel C. Miller
+Kartik Anand
+Jiann-wien Hsu
+N. Azimi-Tafreshi
+Fabio Giavazzi
+Alberto Vailati
+David Juher
+Jordi Ripoll
+Ming Tang
+Mukeshwar Dhamala
+Erik Van der Straeten
+Christian Beck
+Christian Meisel
+Thilo Gross
+Jacobo Aguirre
+Javier M. Buld\xc3\xba
+Susanna C. Manrubia
+Baruch Barzel
+Ofer Biham
+Benjamin Markines
+Xiao-Ke Xu
+Flavio Bono
+Eugenio Guti\xc3\xa9rrez
+Wolfram Just
+David Arrowsmith
+Linyuan L\xc3\xbc
+Ci-Hang Jin
+M. A. Moret
+M. C. Santana
+G. F. Zebende
+P. G. Pascutti
+Roy Wilds
+Leon Glass
+Jorge Pe\xc3\xb1a
+Henri Volken
+Enea Pestelacci
+Junaid M. Laskar
+John Philip
+Baldev Raj
+Bahram Houchmandzadeh
+Zhipeng L\xc3\xbc
+Wenqi Huang
+Daniel R. Amor
+Joaquim Fort
+V. A. Traag
+Jeroen Bruggeman
+Marvin Weinstein
+David Horn
+Adam Ponzi
+Aaditya V. Rangan
+J. A. Almendral
+I. Sendi\xc3\xb1a-Nadal
+D. Yu
+I. Leyva
+Bruno Bassetti
+Mina Zarei
+Marco Cosentino Lagomarsino
+Ming-Chen Zhou
+Chuang Liu (\xe5\x88\x98\xe9\x97\xaf)
+Zhi-Qiang Jiang (\xe8\x92\x8b\xe5\xbf\x97\xe5\xbc\xba)
+Robert K. Niven
+Rub\xc3\xa9n J. S\xc3\xa1nchez-Garc\xc3\xada
+Ruili Wang
+Xian-Bin Cao
+Yoji Kawamura
+Hiroshi Kori
+Roland R. Netz
+Olga Kuksenok
+Victor V. Yashin
+Anna C. Balazs
+Te Wu
+Meesoon Ha
+Katarzyna Klimaszewska
+Jan J. \xc5\xbbebrowski
+C. Gracia-L\xc3\xa1zaro
+L. F. Lafuerza
+Thomas Richardson
+Peter J. Mucha
+Mason A. Porter
+Javier Vicente
+Luis G. Moyano
+Austin Gerig
+B. Luque
+L. Lacasa
+F. Ballesteros
+J. Luque
+Sanjeev Chauhan
+Michelle Girvan
+Damian G. Stephen
+Daniel Mirman
+James S. Magnuson
+James A. Dixon
+Benjamin M. Tabak
+Borko D. Sto\xc5\xa1i\xc4\x87
+Tatijana Sto\xc5\xa1i\xc4\x87
+Filippo Simini
+Brandon G. Bale
+J. Nathan Kutz
+A. N. Pisarchik
+R. Jaimes-Re\xc3\xa1tegui
+R. Sevilla-Escoboza
+D. C. Lin
+Ian X. Y. Leung
+Pan Hui
+Pietro Li\xc3\xb2
+Jon Crowcroft
+Nicholas A. Licata
+Alexei V. Tkachenko
+Kezan Li
+Kaihua Wang
+Guo-Yong Zhang
+Wei-Kai Qi
+Shao-Meng Qing
+R. Sumi
+Z. N\xc3\xa9da
+A. Tunyagi
+Sz. Boda
+Cs. Sz\xc3\xa1sz
+Hidetoshi Morita
+Mitsunori Takano
+J. M. Buld\xc3\xba
+C. de Kerchove
+G. Krings
+P. Van Dooren
+V. D. Blondel
+A. Gabrielli
+G. Caldarelli
+Andreas Noack
+T. Kahle
+E. Olbrich
+J. Jost
+N. Ay
+Daryush Jonathan Dawid
+Mehran Kardar
+Mark A. Kramer
+Uri T. Eden
+Sydney S. Cash
+Javier Reyes
+Stefano Schiavo
+Joseph D. Skufca
+Johannes J. Schneider
+Andr\xc3\xa9 M\xc3\xbcller
+Elmar Sch\xc3\xb6mer
+Andrea Perna
+Pascale Kuntz
+Guy Theraulaz
+Y. Kanevsky
+E. Alvarez-Lacalle
+B. Echebarria
+S. Feldt
+J. Waddell
+V. L. Hetrick
+J. D. Berke
+M. \xc5\xbbochowski
+A. A. Saberi
+S. Rouhani
+D. L. Turcotte
+S. G. Abaimov
+I. Dobson
+Daniele De Martino
+Nobuharu Kami
+Hideo Ikeda
+V. Constantoudis
+H. Christoyianni
+E. Zakka
+E. Gogolides
+Samuel Johnson
+Joaqu\xc3\xadn J. Torres
+Joaqu\xc3\xadn Marro
+L. Chen
+L. RoseFigura
+W. Morgan
+Johannes Norrell
+J. G\xc3\xb3mez-Garde\xc3\xb1es
+Markus B\xc3\xa4r
+Michael Stich
+Yoshiki Kuramoto
+Tadeusz P\xc5\x82atkowski
+Pawe\xc5\x82 Bujnowski
+Shunjiang Ni
+Wenguo Weng
+B. Gaveau
+L. S. Schulman
+Liqian Peng
+Baomei Tian
+Jue Zhang
+Kang Li
+Ping Li
+Ye Wu
+Antoine Allard
+Pierre-Andr\xc3\xa9 No\xc3\xabl
+Louis J. Dub\xc3\xa9
+Babak Pourbohloul
+K. H. Kiyani
+N. W. Watkins
+Ralf W. Wittenberg
+Ka-Fai Poon
+Kenta Odagiri
+Kazuo Takatsuka
+P. Carpena
+P. Bernaola-Galv\xc3\xa1n
+M. Hackenberg
+A. V. Coronado
+J. L. Oliver
+Samuele De Bartolo
+Francesco Dell\xe2\x80\x99Accio
+Massimo Veltri
+Vasiliki Plerou
+Lei Zhang
+Huimin Tong
+Dongsheng Lei
+R. Toivonen
+X. Castell\xc3\xb3
+J. Saram\xc3\xa4ki
+Luca De Sanctis
+Alexis Burdeau
+Pascal Viot
+\xc3\x89va R\xc3\xa1cz
+S. Meloni
+A. Buscarino
+L. Fortuna
+M. Frasca
+Nick S. Jones
+L. Barnett
+C. L. Buckley
+S. Bullock
+Li Liu
+H. J. Herrman
+Shwu-Jane Shieh
+Mei Zhang
+Junzhong Yang
+C. Nadir Kaplan
+D. Credgington
+R. Sanchez
+S. J. Rosenberg
+Santiago Gil
+Hiroya Nakao
+David Dominguez
+Mario Gonz\xc3\xa1lez
+Eduardo Serrano
+Francisco B. Rodr\xc3\xadguez
+Viktor Nagy
+M\xc3\xa1rton P\xc3\xb3sfai
+Wei Ren
+Guiying Yan
+Xiaoping Liao
+Lan Xiao
+Daniel Fraiman
+Pablo Balenzuela
+Jennifer Foss
+Dante R. Chialvo
+Ken Nagai
+A. J. Elvin
+C. R. Laing
+M. G. Roberts
+Bao-Mei Tian
+Samuel Arbesman
+Jon M. Kleinberg
+C. Qiu
+H. B. Huang
+G\xc3\xa1bor Schuszter
+Tamara T\xc3\xb3th
+Xiaojuan Ma
+Zhigang Zheng
+I. J. Benczik
+S. Z. Benczik
+B. Schmittmann
+R. K. P. Zia
+Yu-Zhong Chen
+Zi-Gang Huang
+Yan Zhang
+Bahman Davoudi
+Robert C. Brunham
+Nicolas Ducheneaut
+Nicholas Yee
+George Tita
+Katherine Jones-Smith
+Harsh Mathur
+Lawrence M. Krauss
+Ben de Lacy Costello
+Rita Toth
+Christopher Stone
+Andrew Adamatzky
+Larry Bull
+S. V. Fallert
+Zhongke Gao
+Ningde Jin
+Andrew Pomerance
+A. D. Medus
+C. O. Dorso
+Vahe Musoyan
+Martin A. Nowak
+Christoph Hauert
+J. M. R. Parrondo
+Heiko Rieger
+Steen Rasmussen
+Roger White
+C. Y. Zheng
+S. P. Zhu
+J. A. M\xc3\xa9ndez-Berm\xc3\xbadez
+G. A. Luna-Acosta
+P. \xc5\xa0eba
+K. N. Pichugin
+Nicola Scafetta
+Benno Tilch
+A. Aumann
+V. Karimipour
+Juan L. Cabrera
+J. Gorro\xc3\xb1ogoitia
+Jesper Dall
+Michael Christensen
+Ramon Huerta
+Lev S. Tsimring
+Z. Kutnjak
+S. Kralj
+S. \xc5\xbdumer
+Walton R. Gutierrez
+L. Volchenkova
+G\xc3\xa1bor Szab\xc3\xb3
+Jean S. Chung
+Kinjal Banerjee
+Turbasu Biswas
+Thorsten P\xc3\xb6schel
+Jan A. Freund
+H.-J. Woo
+Simona Cocco
+R\xc3\xa9mi Monasson
+GuoCe Zhuang
+Jun Wang
+Yi Shi
+I. Rotter
+P. Allegrini
+J. Bellazzini
+G. Bramanti
+M. Ignaccolo
+P. Grigolini
+J. Yang
+Roman M. Zaritski
+Arkady M. Pertsov
+O. Lejeune
+M. Tlidi
+P. Couteron
+J. Sielewiesiuk
+J. G\xc3\xb3recki
+C. P. Warren
+L. M. Sander
+N. I. Lebovka
+S. Tarafdar
+N. Teslenko
+M. P. Joy
+Stephanie Forrest
+Justin Balthrop
+Ole Peters
+J. van Mourik
+D. Saad
+W. Je\xc5\xbcewski
+Chen-Shan Chin
+Benjamin De Lacy Costello
+Holger Ebel
+Y. Park
+G. M. Buend\xc3\xada
+P. A. Rikvold
+Lutz-Ingo Mielsch
+Frank C. Hoppensteadt
+Roman Karasik
+Nir Sapir
+Itzhak Dvir
+Peretz Lavie
+Verena Schulte-Frohlinde
+Adrian Morley-Davies
+Sergio Picozzi
+Bernard Gondran
+Eric Guichard
+Chai-Yu Lin
+Yasumasa Ono
+Eran Bouchbinder
+Zhong-Ke Gao
+Ning-De Jin
+N. Gibert
+Fang Du
+Kwan-tai Leung
+Zolt\xc3\xa1n N\xc3\xa9da
+J. B. Batista
+L. da F. Costa
+Vincent Marceau
+Laurent H\xc3\xa9bert-Dufresne
+Zhihai Rong (\xe8\x8d\xa3\xe6\x99\xba\xe6\xb5\xb7)
+Han-Xin Yang (\xe6\x9d\xa8\xe6\xb6\xb5\xe6\x96\xb0)
+Wen-Xu Wang (\xe7\x8e\x8b\xe6\x96\x87\xe6\x97\xad)
+D. Escaff
+Melinda Varga
+L\xc3\xadvia Hanusovszky
+D. Li
+I. Sendi\xc3\xb1a\xe2\x80\x93Nadal
+Paschalis Korosoglou
+Grzegorz Siudem
+Juan Sab\xc3\xadn
+Gerardo Prieto
+Juan M. Ruso
+Paula Messina
+F\xc3\xa9lix Sarmiento
+Andrea Gabrielli
+Joachim Mathiesen
+Bj\xc3\xb8rn Jamtveit
+Kim Sneppen
+Ulrich Parlitz
+Joaqu\xc3\xadn Go\xc3\xb1i
+Carlos Rodr\xc3\xadguez-Caso
+Guo-Hua Mu (\xe7\x89\x9f\xe5\x9b\xbd\xe5\x8d\x8e)
+Andrew Berdahl
+Woosik Choi
+Yuhan Chen
+Olaf Rotzschke
+Tae Yun Kim
+Chiyori Urabe
+Shinji Takesue
+A. La Cognata
+D. Valenti
+A. A. Dubkov
+B. Spagnolo
+Yuchao Nie
+Hua Yang
+Jie Cheng
+Masataka Sato
+Li Chen
+Can Qiu
+Hongbin Huang
+Guanxiao Qi
+Haijun Wang
+Charlotte Strege
+Alexander Mann
+A. K. Hartmann
+X. Ge
+P. Schumm
+S. Trajanovski
+Hanshuang Chen (\xe9\x99\x88\xe5\x90\xab\xe7\x88\xbd)
+Zhonghuai Hou (\xe4\xbe\xaf\xe4\xb8\xad\xe6\x80\x80)
+Houwen Xin (\xe8\xbe\x9b\xe5\x8e\x9a\xe6\x96\x87)
+YiJing Yan (\xe4\xb8\xa5\xe4\xbb\xa5\xe4\xba\xac)
+V. N. Kuzovkov
+G. Zvejnieks
+E. A. Kotomin
+M. Olvera de la Cruz
+H. Dashti-Naserabadi
+Takamitsu Watanabe
+Werner Baumgarten
+Tetsuo Ueda
+Marcus J. B. Hauser
+Ivan Osorio
+Mark G. Frei
+John Milton
+Christos Nicolaides
+Luis Cueto-Felgueroso
+Ruben Juanes
+Yun Zhu
+Yuting Li
+Gao-Feng Gu (\xe9\xa1\xbe\xe9\xab\x98\xe5\xb3\xb0)
+Huijie Zhou
+Alberto Saa
+Roberto Venegeroles
+S. Hwang
+C.-K. Yun
+Debanjan Chowdhury
+Tiago Pereira
+Abhishek Mukhopadhyay
+L. Douw
+J. M. Hern\xc3\xa1ndez
+J. C. Reijneveld
+C. J. Stam
+Deokjae Lee
+Sergio E. Mangioni
+Roberto R. Deza
+Sergei F. Chekmarev
+Dominic Jones
+Henrik Jeldtoft Jensen
+Paolo Sibani
+Vladimir Zhdankin
+J. C. Sprott
+Zoran Levnaji\xc4\x87
+Arkady Pikovsky
+Daniel R. Wuellner
+Jos\xc3\xa9 F. Fontanari
+Arnab Chatterjee
+Daniel E. Whitney
+Labrini Athanasopoulou
+Stavros Athanasopoulos
+Kostas Karamanos
+Yannis Almirantis
+Sandro Meloni
+Attila R\xc3\xa1kos
+David Mukamel
+Daniel Aloise
+Gilles Caporossi
+Sylvain Perron
+A. Manzotti
+Heywood Tam
+Lei Wang
+Huan Shi
+You-xian Sun
+Scott A. Hill
+Dan Braha
+Peter A. Tass
+Onuttom Narayan
+Iraj Saniee
+Lucas R. Peres
+Vincent Tejedor
+Olivier B\xc3\xa9nichou
+Raphael Voituriez
+Michel Moreau
+Guanqun Wang
+Qingsheng Wang
+Peng He
+Srinivasa Pullela
+Manuel Marquez
+Zhengdong Cheng
+Christophe P. Haynes
+Anthony P. Roberts
+Vladimir Garc\xc3\xada-Morales
+Alexander Orlov
+Katharina Krischer
+Filip De Smet
+Dirk Aeyels
+Olav Aursj\xc3\xb8
+Eirik G. Flekk\xc3\xb8y
+M. A. C. Huergo
+M. A. Pasquale
+A. E. Bolz\xc3\xa1n
+A. J. Arvia
+P. H. Gonz\xc3\xa1lez
+Segun Goh
+H. W. Kwon
+J.-Y. Fortin
+I. G. Johnston
+J. P. K. Doye
+A. A. Louis
+S.-W. Kim
+Pouya Manshour
+Fatemeh Ghasemi
+T. Matsumoto
+J. G\xc3\xb3mez
+J. Peinke
+A. F. Pacheco
+M. Reza Rahimi Tabar
+F. Kawasaki
+Lucas Lacasa
+Raul Toral
+Mathias Raschke
+Roberto Nibali
+Yoshifumi Shiraki
+Yoshiyuki Kabashima
+G. M. Ram\xc3\xadrez \xc3\x81vila
+J. Kurths
+J. L. Guisset
+J. L. Deneubourg
+Yuanyuan Mi
+Lisheng Zhang
+Inma R. Cantalapiedra
+Angelina Pe\xc3\xb1aranda
+Blas Echebarria
+Jean Bragard
+S. de Franciscis
+J. J. Torres
+J. Marro
+Satoshi Uchida
+Wubin Bai
+Tzon-Kun Hou
+Marta S. de La Lama
+Stefan Boettcher
+Hua-Wei Shen
+Xue-Qi Cheng
+Bin-Xing Fang
+Jichang Zhao
+Junjie Wu
+Ke Xu
+Alexander C. Kalloniatis
+A. Schiavi
+P. Tarizzo
+Nuno A. M. Ara\xc3\xbajo
+Xuan Ni
+Jacobo Guiu-Souto
+Jorge Carballido-Landeira
+Vicente P\xc3\xa9rez-Villar
+Amitabh Bhattacharya
+Eva Gehrmann
+Arezky H. Rodr\xc3\xadguez
+Pi-Gang Luan
+Zhen Ye
+Clara Salue\xc3\xb1a
+Thomas Schwager
+T. K. Callahan
+E. Knobloch
+Ramon Ferrer i Cancho
+Christiaan Janssen
+Zhongzhu Liu
+Jun Luo
+Chenggang Shao
+Raoul Kopelman
+Morten Br\xc3\xb8ns
+Jeppe Sturis
+Lada A. Adamic
+Rajan M. Lukose
+Amit R. Puniyani
+Bernardo A. Huberman
+Svetlana L. Lachinova
+Weiping Lu
+W. Constantine
+D. B. Percival
+P. G. Reinhall
+S. H. Strogatz
+D. J. Watts
+R. M. J. Tanner
+Antitsa D. Stoycheva
+Sherwin J. Singer
+Berk Sensoy
+Henry Greenside
+Dami\xc3\xa1n H. Zanette
+Emily M. Jin
+Mathieu S. Capcarr\xc3\xa8re
+Moshe Sipper
+P. Coullet
+N. Vandenberghe
+Robert M. May
+Alun L. Lloyd
+Marcelo Kuperman
+Guillermo Abramson
+J. P. Graves
+K. M. Lee
+Hao Xu
+P.-M. Binder
+Jorge A. Plazas
+Xavier Calbet
+Ricardo L\xc3\xb3pez-Ruiz
+A. Ramzanpour
+Hee-kyoung Ko
+Jysoo Lee
+C. Castelnovo
+A. Podest\xc3\xa0
+P. Piseri
+P. Milani
+Zolt\xc3\xa1n Dezs\xc5\x91
+D. M. Summers
+Juan Camacho
+Roger Guimer\xc3\xa0
+Lu\xc3\xads A. Nunes Amaral
+Kasper Astrup Eriksen
+Chang No Yoon
+Seung Kee Han
+Hector Garcia Martin
+Nigel Goldenfeld
+David J. Bergman
+Matthias Schr\xc3\xb6ter
+Klaus Kassner
+Ingo Rehberg
+Josep Claret
+Francesc Sagu\xc3\xa9s
+Carlos Vega
+Carl McBride
+Daniel Cartin
+Gaurav Khanna
+Wei Zhang
+Hiroki Sayama
+Michel Baranger
+Yoshihiko Nagai
+Kevin Hall
+Mario Talajic
+Stanley Nattel
+Heinz Georg Schuster
+Partha Dasgupta
+Sven Bilke
+Fredrik Sjunnesson
+Miguel A. F. Sanju\xc3\xa1n
+S. Jung
+S. Kim
+Seungwhan Kim
+H. Arbell
+J. Fineberg
+Sanjay Jain
+Sandeep Krishna
+P. L. Ramazza
+E. Benkler
+S. Ducci
+F. T. Arecchi
+Jeenu Kim
+Byungnam Kahng
+Duncan S. Callaway
+D. Johnston
+J. Jurkiewicz
+M. Kami\xc5\x84ski
+M. A. Nowak
+G. Papp
+I. Zahed
+Tatyana S. Turova
+J. Munzinger
+C. Str\xc3\xbcmpel
+Yu. A. Astrov
+H.-G. Purwins
+R. Neubecker
+M. I. Sitnov
+A. S. Sharma
+K. Papadopoulos
+D. Vassiliadis
+Jeffrey J. Prentis
+Daniel R. Sisan
+A. Eriksson
+B. Haubold
+B. Mehlig
+Andrea Kir\xc3\xa1ly
+Shi-Jie Xiong
+L. Acedo
+Seong-Ok Jeong
+Guillaume Fertin
+Andr\xc3\xa9 Raspaud
+Yasushi Yokoya
+S. Viola
+Daniel Gr\xc3\xbcneberg
+Alfred Hucht
+Anders Levermann
+Itamar Procaccia
+Lucian Anton
+Hendrik B. Geyer
+G. D\xe2\x80\x99Alessandro
+F. Papoff
+E. Louvergneaux
+P. Glorieux
+Lingfa Yang
+D. Tillberg
+J. Machta
+Jaewook Joo
+Joel L. Lebowitz
+Carmen P. C. Prado
+Jo\xc3\xa3o Corte-Real
+Jason A. C. Gallas
+Reinhard K\xc3\xb6hler
+Carina Kamaga
+Fatima Ibrahim
+Alessandro Pluchino
+Andrea Rapisarda
+Sunao Sakai
+Megumi Kanno
+Yukari Saito
+Luis G. Morelli
+Hilda A. Cerdeira
+Dami\xc3\xa1n E. Strier
+Silvina Ponce Dawson
+B\xc3\xa9la Bollob\xc3\xa1s
+Oliver Riordan
+Alex Umantsev
+Margit Pattanty\xc3\xbas-\xc3\x81brah\xc3\xa1m
+Aki-Hiro Sato
+Rosario Bartiromo
+W. Li
+X. Cai
+D. Ryvkine
+B. Golding
+Qian Shu Li
+Lin Ji
+Marco Baiesi
+Jayanth R. Banavar
+Alessandro Flammini
+Neal S. Holter
+Maziar Nekovee
+Jung-Hoon Kim
+Young-Jo Ko
+Marcus Kaiser
+Claus C. Hilgetag
+E. L. Gurevich
+A. W. Liehr
+Sh. Amiranashvili
+C\xc3\xa9cile Caretta Cartozo
+Vito D. P. Servedio
+Kei-Ichi Ueda
+Ainslie Yuen
+Boris Podobnik
+Youngki Lee
+Serguei Vakulenko
+Bogdan Kazmierczak
+St\xc3\xa9phane G\xc3\xa9nieys
+Gilberto Corso
+Ning-Ning Pang
+Wen-Jer Tzeng
+R\xc3\xa9ka Albert
+Istv\xc3\xa1n Albert
+Gary L. Nakarado
+M. D. Johnson
+X. Duan
+Brett Riley
+Aniket Bhattacharya
+Weili Luo
+Ernesto G\xc3\xa1lvez M.
+Alfonso P\xc3\xa9rez A.
+Gergely Palla
+Imre Der\xc3\xa9nyi
+Ill\xc3\xa9s Farkas
+Tam\xc3\xa1s Vicsek
+A. Carbone
+G. Castelli
+Longyu Qi
+Beilai Hu
+G\xc3\xa1bor Cs\xc3\xa1nyi
+Bal\xc3\xa1zs Szendr\xc5\x91i
+E. A. Jagla
+David Wolpert
+Kagan Tumer
+Esfandiar Bandari
+Thorsten Ackemann
+Edgar Grosse Westhoff
+Wulfhard Lange
+H. Y. Lee
+H. Y. Chan
+M. Girvan
+J. O. Fossum
+H. H. Bergene
+Alex Hansen
+B. O\xe2\x80\x99Rourke
+G. Manificat
+Wim Hordijk
+M. Iba\xc3\xb1es
+David P. Feldman
+James P. Crutchfield
+Mahn-Soo Choi
+H. U. B\xc3\xb6deker
+M. C. R\xc3\xb6ttger
+T. D. Frank
+R. Friedrich
+C. Hauptmann
+H. Touchette
+M. C. Mackey
+Martin Weigt
+A. Parravano
+Dafang Zheng
+Steffen Trimper
+Bo Zheng
+P. A. Sreeram
+Ra\xc3\xbal Toral
+O. Jakoby
+J. Gorecka
+Takefumi Fujimoto
+Kateryna Medvedyeva
+C. M. Aegerter
+R. G\xc3\xbcnther
+R. J. Wijngaarden
+Kou Zhongbao
+Zhang Changshui
+Brandon P. van Zyl
+David A. W. Hutchinson
+M. Blue
+B. W. Bush
+B\xc3\xa1lint Szab\xc3\xb3
+G. N\xc3\xa9meth
+G. Vattay
+Denis Bartolo
+Armand Ajdari
+Jean-Baptiste Fournier
+Robert D. Deegan
+Shilpa Chheda
+Lisa Patel
+Jeehoon Kim
+Alex de Lozanne
+Junji Ito
+Norikazu Suzuki
+Daniel Korenblum
+O. Descalzi
+M. Argentina
+E. Tirapegui
+Denis Boyer
+Octavio Miramontes
+Philip Seliger
+Mikhail I. Rabinovich
+Erzs\xc3\xa9bet Ravasz
+R. Herrero
+B. Dressel
+W. Pesch
+A. Mashaghi
+P. C. Matthews
+Richard W. Clarke
+Mervyn P. Freeman
+Nicholas W. Watkins
+Pedro A. Pury
+Manuel O. C\xc3\xa1ceres
+Bernardo von Haeften
+Gonzalo Iz\xc3\xbas
+Ely Simon
+Jeffrey M. Hausdorff
+Erik Volz
+Jeffrey R. Moffitt
+Patrick Macdonald
+Paolo Butt\xc3\xa0
+Andreas Gr\xc3\xb6nlund
+Ronen Olinky
+Junichiro Hayano
+Seiichiro Sakata
+Shin Kwak
+M. I. Krivoruchenko
+Klaus Fraedrich
+Ute Luksch
+Richard Blender
+B. Dybiec
+A. Kleczkowski
+C. A. Gilligan
+Ralf Mrowka
+Andreas Patzak
+Hanspeter Herzel
+Dirk Holste
+M. Bestehorn
+E. V. Grigorieva
+S. A. Kaschenko
+F. Coccetti
+P. De Los Rios
+Sebasti\xc3\xa1n Risau-Gusman
+Luciano Pietronero
+Katsuya Ouchi
+Hirokazu Fujisaka
+Oliver D. King
+Ugur Tirnakli
+Juan Wang
+Philippe De Wilde
+Ernest Montbri\xc3\xb3
+Bernd Blasius
+Marcio Gameiro
+Konstantin Mischaikow
+William Kalies
+Denis Weaire
+Stefen L\xc3\xa4mmer
+Ulrich Witt
+Thomas Brenner
+K\xc4\x99stutis Stali\xc5\xabnas
+Agn\xc3\xa8s Helmstetter
+Chad M. Topaz
+Roberto N. Onody
+Paulo A. de Castro
+Jian Xu
+Arne T. Skjeltorp
+Marta Sales-Pardo
+R. Failla
+A. Schwettmann
+Shi Zhou
+Ra\xc3\xbal J. Mondrag\xc3\xb3n
+Marcos F. Castez
+Roberto C. Salvarezza
+Hern\xc3\xa1n G. Solari
+Zhuang-Xiong Huang
+B. Cessac
+J. A. Sepulchre
+Enzhu Liang
+Rosemary L. Smith
+David S. Clague
+Maximino Aldana
+Hern\xc3\xa1n Larralde
+A. Kwang-Hua Chu
+Jeffrey D. Achter
+Wolfgang Barthel
+Alexander K. Hartmann
+A. A. Gorshenev
+Yu. M. Pis\xe2\x80\x99mak
+Varsha Banerjee
+Rakesh K. Joshi
+H. K. Sehgal
+Katarzyna Sznajd-Weron
+Igal Berenstein
+Milos Dolnik
+Anatol M. Zhabotinsky
+Nicholas R. Moloney
+Gunnar Pruessner
+S. Gheorghiu-Svirschevski
+Shijun Wang
+Changshui Zhang
+Julianne D. Halley
+Andrew C. Warden
+Suzanne Sadedin
+Wentian Li
+Andr\xc3\xa9s Pomi
+Eduardo Mizraji
+E. S. Lobanova
+E. E. Shnol
+F. I. Ataullakhanov
+Taksu Cheon
+Shigemi Ohta
+Stefan L\xc3\xa4mmer
+Thomas Seidel
+P\xc3\xa9tr \xc5\xa0eba
+Damien Challet
+Andrea Lombardoni
+Lili Rong
+Francesca Colaiori
+Pauli R\xc3\xa4m\xc3\xb6
+Yurytzy L\xc3\xb3pez Jim\xc3\xa9nez
+Mattia Frasca
+Arturo Buscarino
+Alessandro Rizzo
+Luigi Fortuna
+Stefano Boccaletti
+Josep M. Pujol
+Javier B\xc3\xa9jar
+Jordi Delgado
+Sung Min Park
+Mary Griffith
+Sebastian Bernhardsson
+Gaoxiang Ye
+D. J. Albers
+J. P. Crutchfield
+M. A. F. Sanju\xc3\xa1n
+Nicholas Guttenberg
+Russell B. Thompson
+Chang-Woo Shin
+Nobuhiko Oshida
+Sigeo Ihara
+J\xc3\xbcrgen Schmidt
+D.-U. Hwang
+A. Amann
+L. M. Pecora
+Maciej Kurant
+Patrick Thiran
+Adi R. Bulsara
+D. R. Paula
+A. D. Ara\xc3\xbajo
+J. A. C. Galla
+Vittoria Colizza
+Alexandre O. Stauffer
+Kaushik Matia
+Dongfeng Fu
+M. Bo\xc5\xbei\xc4\x8devi\xc4\x87
+M. Domazet
+I. D. Dissanayake
+P. Dimitrakopoulos
+Xiaoshuang Chen
+Yizhuang Zheng
+Wei Lu
+E. V. Vakarin
+J. P. Badiali
+A. Rabinovitch
+M. Gutman
+Y. Biton
+I. Aviram
+D. S. Rosenbaum
+S. H. He
+X. Zhang
+Z. X. Liu
+D. S. Xu
+C. K. Shen
+A. Capocci
+V. D. P. Servedio
+F. Colaiori
+L. S. Buriol
+D. Donato
+S. Leonardi
+George C. M. A. Ehrhardt
+Fernando Vega-Redondo
+S. V. Gurevich
+Martin C. J. Bootsma
+Odo Diekmann
+Pawe\xc5\x82 O\xc5\x9bwi\xc8\xa9cimka
+Jaros\xc5\x82aw Kwapie\xc5\x84
+Stanis\xc5\x82aw Dro\xc5\xbcd\xc5\xbc
+Debin Huang
+Martin Rosvall
+Ian B. Dodd
+Bebe Emilienne Ayissi
+Chen Wang
+ChunXia Zhang
+Longyan Gong
+Peiqing Tong
+M.-P. Zorzano
+D. Hochberg
+F. Mor\xc3\xa1n
+Christoly Biely
+Chaopin Zhu
+Anthony Kuh
+Aric Hagberg
+Pieter J. Swart
+Daniel A. Schult
+Jacob Bock Axelsen
+C. Bedogne\xe2\x80\x99
+Yong Yu
+Samuel Earl
+John A. Marsh
+Min Liu
+M. S. Lazaridou
+C. V. Giuraniuc
+J. O. Indekeu
+M. Leone
+I. P\xc3\xa9rez Castillo
+B. Van Schaeybroeck
+C. Vanderzande
+L. Laurson
+M. J. Alava
+Osnat Mokryn
+Danny Dolev
+Yuval Shavitt
+Renato Germano
+Toshihiro Tanizawa
+Rolando Cortes Montes de Oca
+Jos\xc3\xa9 Mart\xc3\xadnez Trinidad
+Maribel A. Mendoza
+J. J. Ruiz-Lorenzo
+Zbis\xc5\x82aw Tabor
+F. Lallet
+N. Olivi-Tran
+Sutapa Mukherji
+Vivek Mishra
+Michael T. Gastner
+Timothy C. Jarrett
+Douglas J. Ashton
+Mark Fricker
+Arne Traulsen
+Jorge M. Pacheco
+J\xc3\xb6rg Reichardt
+Jessica Furrer Chau
+Liang Tian
+Da-Ning Shi
+Wen Yang
+A. P. Masucci
+Mickey R. Roberson
+Jian-jun Wu
+Zi-you Gao
+Hui-jun Sun
+Artem Levandovsky
+Leonardo Golubovi\xc4\x87
+Dorel Moldovan
+Samuele G. De Bartolo
+Leonardo Primavera
+Roberto Gaudio
+Antonino D\xe2\x80\x99Ippolito
+Mao-Xing Liu
+P\xc3\xa9ter Kevei
+Weili Liu
+Kim Baskerville
+C. Sample
+S. Bounkong
+Jie Zhou
+Ronny Peter
+J. B. Gao
+J. Hu
+W. W. Tung
+Y. H. Cao
+C. Quilliet
+Christian W. Zemlin
+Karthik Mukund
+Vadim N. Biktashev
+Yanli Zou
+Jie Zhu
+Rina Dutta
+Jacob G. Foster
+David V. Foster
+N. H. Fefferman
+K. L. Ng
+Christian Borghesi
+Salvatore Miccich\xc3\xa8
+Eben Kenah
+James M. Robins
+Peter Krawitz
+Ilya Shmulevich
+Bidhan Chandra Bag
+K. G. Petrosyan
+Andr\xc3\xa9 P. Vieira
+Roberto F. S. Andrad
+Patric Hagmann
+Yu-Feng Lu
+Silvio C. Ferreira
+Marcelo L. Martins
+Gustavo Ariel Sznaider
+Gian Luca Pellegrini
+Lucilla de Arcangelis
+Carla Perrone-Capano
+Jun Miyazaki
+Fragiskos Kyriakopoulos
+Lin Huang
+Usha Nandini Raghavan
+Soundar Kumara
+Mat\xc3\xba\xc5\xa1 Medo
+Yi-Cheng Zhang
+Ezechiel G. D. Cohen
+G. Seiden
+M. Ungarish
+S. G. Lipson
+David Morton de Lachapelle
+B. Kujawski
+J. Ho\xc5\x82yst
+Alexandros Chremos
+Philip J. Camp
+Xiaoming Zhang
+E. H. Flach
+S. Schnell
+J. Norbury
+Shi-Min Cai
+Zhao-Hui Jiang
+Hui-Jie Yang
+Guo-Qing Zhang
+Di Wang
+Guo-Jie Li
+E. Di Paolo
+Hongfang Wang
+YunFeng Chang
+Liang Sun
+Xu Cai
+Rami Puzis
+Yuval Elovici
+Shlomi Dolev
+Zhi-Wei Song
+Meng-Xiao Zhu
+Hong-Feng Yang
+Hui-Yu Jin
+\xc3\x89. Brunet
+B. Derrida
+A. H. Mueller
+S. Munier
+Jayendra N. Bandyopadhyay
+P. C. Ingrey
+A. Zen
+Xun Zhang
+Luciano R. da Silva
+Hans J. Herrman
+Lei-Han Tang
+Federico Vazquez
+Juan Carlos Gonz\xc3\xa1lez-Avella
+S. R. Hudson
+D. T. Robb
+A. Berger
+Zengchao Zhao
+L. G. Stanton
+Nelson A. Alves
+Yutaka Sumino
+Hiroyuki Kitahata
+Hideki Seto
+Piero Olla
+N. W. Hengartner
+Lev Muchnik
+Royi Itzhack
+Sorin Solomon
+Yoram Louzoun
+Xin-Gang Li
+Zi-You Gao
+Ke-Ping Li
+Xiao-Mei Zhao
+Pak Yuen Chan
+Max Lungarella
+Alex Pitti
+Yasuo Kuniyoshi
+David Hsu
+Aonan Tang
+Murielle Hsu
+John M. Beggs
+A. L. Pastore y Piontti
+Rapha\xc3\xabl M. Jungers
+D. Garlaschelli
+Jian-Yue Guan
+Alain Karma
+Franco Bagnoli
+Luca Sguanci
+Mark A. Bedau
+Norman Packard
+Joaquim P\xc3\xa9rez-Losada
+Neus Isern
+Christian Andr\xc3\xa9 Andresen
+Jean Schmittbuhl
+Zhe Liu
+Ivan G. Szendro
+Shyan-Shiou Chen
+Li-Fen Chen
+Yu-Te Wu
+Yu-Zu Wu
+Po-Lei Lee
+Tzu-Chen Yeh
+Jen-Chuen Hsieh
+Katsuhiro Nakamura
+P. N. Loxley
+P. A. Robinson
+G. Abal
+R. Siri
+A. Romanelli
+R. Donangelo
+Martin Centurion
+Ye Pu
+Mankei Tsang
+Demetri Psaltis
+Kenju Otsuka
+Yoshihiko Miyasaka
+Kana Nemoto
+Wenxian Zhang
+\xc3\x96. E. M\xc3\xbcstecapl\xc4\xb1o\xc4\x9flu
+L. You
+J. Sch\xc3\xbcttler
+I. Babushkin
+Christopher Facer
+Jason Twamley
+James Cresser
+David Poulin
+Ersen Bilgin
+Daniel Burgarth
+Sougato Bose
+Christoph Bruder
+Vittorio Giovannetti
+R. J. Magyar
+T. K. Whittingham
+K. Burke
+D. Gross
+J. Eisert
+Sukhwinder Singh
+Robert N. C. Pfeifer
+Guifr\xc3\xa9 Vidal
+Boris A. Malomed
+H. E. Nistazakis
+D. J. Frantzeskakis
+P. G. Kevrekidis
+Gabriele De Chiara
+Rosario Fazio
+Chiara Macchiavello
+Simone Montangero
+G. Massimo Palma
+Pawe\xc5\x82 Horodecki
+Remigiusz Augusiak
+Maciej Demianowicz
+Cristina M. Gonz\xc3\xa1lez
+M. C. Torrent
+Jordi Garc\xc3\xada-Ojalvo
+Michiel Wouters
+Iacopo Carusotto
+A. Mariano
+P. Podesta Lerma
+Vincent E. Sacksteder, I
+Vladimir Shiltsev
+Victor M. Yakovenko
+J. Barkley Rosser, Jr
+Igor S. Aranson
+Junta Matsukidaira
+Katsuhiro Nishinari
+Ronald Dickman
+N. M. Shnerb
+P. Sarah
+H. Lavee
+S. Solomon
+Albert C.-C. Yang
+Shu-Shya Hseu
+Huey-Wen Yien
+Stephen L. Conway
+David J. Goldfarb
+Troy Shinbrot
+Benjamin J. Glasser
+Mirko S. Mega
+Luigi Palatella
+Sergio Vinciguerra
+Per Bak
+Tim Scanlon
+Ingve Simonsen
+Sergei Maslov
+Benjamin Shargel
+Daniel I. Goldman
+M. D. Shattuck
+Sung Joon Moon
+J. B. Swift
+Himanshu Agrawal
+Eytan Domany
+B. Schmidt
+P. De Kepper
+S. C. M\xc3\xbcller
+Julien Kockelkoren
+Hugues Chat\xc3\xa9
+Carolina Brito
+J. Boissonade
+C. Reichhardt
+C. J. Olson Reichhardt
+I. Martin
+A. R. Bishop
+Holger Schanz
+Tsampikos Kottos
+J. S. Uehara
+R. P. Ojha
+Yunfan Gong
+David J. Christini
+Vincent Hakim
+Herv\xc3\xa9 Henry
+S. Ratynskaia
+C. Knapek
+S. Khrapak
+A. V. Milovanov
+A. Ivlev
+J. J. Rasmussen
+G. E. Morfill
+P. Castorina
+P. P. Delsanto
+C. Guiot
+Dongsheng Zhang
+M. A. Carignano
+I. Szleifer
+Haitao Xu
+Micka\xc3\xabl Bourgoin
+Nicholas T. Ouellette
+Eberhard Bodenschatz
+International Collaboration for Turbulence Research
+Ken Kiyono
+L. de Arcangelis
+E. Lippiello
+M. Nicodemi
+Mattias Lindman
+Kristin J\xc3\xb3nsd\xc3\xb3ttir
+Roland Roberts
+Bj\xc3\xb6rn Lund
+Reynir B\xc3\xb6dvarsson
+Frederick H. Willeboordse
+Carlos J. Dommar D\xe2\x80\x99Lima
+J. Zhang
+M. Small
+Lucilla de\xc2\xa0Arcangelis
+D. G\xc3\xb3mez-Garc\xc3\xada
+B. Devincre
+L. P. Kubin
+Vance Bergeron
+Charles Berger
+M. D. Betterton
+John Veysey
+A. Cahoon
+M. Maruyama
+J. S. Wettlaufer
+L. Stollenwerk
+J.-P. Boeuf
+Jan Scholz
+P. F. Verdes
+P. M. Granitto
+H. A. Ceccatto
+Conrad J. P\xc3\xa9rez-Vicente
+Filippo Menczer
+Assaf Gottlieb
+Stefano Mossa
+Marc Barth\xc3\xa9l\xc3\xa9my
+St. Schm\xc3\xb6lzer
+D. Gr\xc3\xa4bner
+M. Gradzielski
+T. Narayanan
+Alejandro D. S\xc3\xa1nchez
+Paul J. Petersan
+Ryan S. Bennink
+Vincent Wong
+Alberto M. Marino
+David L. Aronstein
+Robert W. Boyd
+C. R. Stroud, Jr.
+Svetlana Lukishova
+Daniel J. Gauthie
+Wen-Bing Zhang
+Stefano Lise
+David Hughes
+Christopher Hertlein
+E. M. Rauch
+H. Sayama
+May Lim
+Gil Bub
+Alvin Shrier
+Stefan Gro\xc3\x9fkinsky
+Marc Timme
+Bj\xc3\xb6rn Naundorf
+D. E. Newman
+R. S\xc3\xa1nchez
+B. A. Carreras
+W. Ferenbaugh
+F. Leyvraz
+Kittiwit Matan
+Rachel B. Williams
+Thomas A. Witten
+Sidney R. Nagel
+Li Xu
+Zhichen Zhu
+Oleg V. Borisov
+Ekaterina B. Zhulina
+Svetlana A. Sukhishvili
+R. M. Nicol
+Mart\xc3\xad Cuquet
+John Calsamiglia
+J. A. Henderson
+E. Matar
+P. Riley
+R. T. Gray
+Priyanka Shukla
+Jos\xc3\xa9 A. Cuesta
+Xiaohua Cui
+Robert J. Rovetti
+Ling Yang
+James N. Weiss
+Zhilin Qu
+Ralf T\xc3\xb6njes
+Anna Levina
+J. Michael Herrmann
+Theo Geisel
+Seth A. Marvel
+Anirban Chakraborti
+Marco Patriarca
+Juan Camilo Bohorquez
+Alex Dixon
+Juan I. Perotti
+Orlando V. Billoni
+Francisco A. Tamarit
+Sergio A. Cannas
+Wai Shing Lee
+Thomas M. Antonsen
+Jos\xc3\xa9 Luis Iribarren
+Eric J. Friedman
+Adam S. Landsberg
+G. Kozyreff
+P. Assemat
+S. J. Chapman
+Jen-Hao Hsiao
+Massimo Pica Ciamarra
+Antonio H. Lara
+Andrew T. Lee
+Inna Vishik
+Ying-Jie Tian
+Nan Li
+Ke-Sheng Jiang
+Peter J. Thomas
+Jack D. Cowan
+Alex Roxin
+Hermann Riecke
+Sara A. Solla
+M. I. Lebedeva
+D. G. Vlachos
+M. Tsapatsis
+Guillaume Gr\xc3\xa9goire
+B. G\xc3\xbctlich
+K. A. L\xc5\x91rincz
+M. S. Welling
+Olivia L. White
+Daniel D. Lee
+Haim Sompolinsky
+Lara Faoro
+Lorenza Viola
+Valentin P. Zhigulin
+Amilcare Porporato
+Paolo D\xe2\x80\x99Odorico
+Michael Denker
+Markus Diesmann
+Fred Wolf
+Andr\xc3\xa9 X. C. N. Valente
+Abhijit Sarkar
+Howard A. Stone
+Evan A. Variano
+Jonathan H. McCoy
+Hod Lipson
+M. Argollo de Menezes
+Duncan J. Watts
+Myoung Won Cho
+Eyal Hulata
+Itay Baruchi
+Ronen Segev
+Yoash Shapira
+Eshel Ben-Jacob
+J\xc3\xbcrgen Jost
+Andreas Wende
+Xiaosong Yang
+Shuming Du
+Jin Ma
+M. Anghel
+Ernesto M. Nicola
+Oscar Sotolongo-Costa
+A. Posadas
+Oscar G. Calder\xc3\xb3n
+Eduardo Cabrera
+M. A. Ant\xc3\xb3n
+I. Gonzalo
+F. Carre\xc3\xb1o
+J. M. Guerra
+Cristi\xc3\xa1n Huepe
+B. Kozma
+Raoul-Martin Memmesheimer
+K. J. M. Bishop
+B. A. Grzybowski
+G. Frenkel
+E. Katzav
+M. Schwartz
+N. Sochen
+Itai Cohen
+Andrew B. Schofield
+Michael P. Brenner
+David A. Weitz
+Tatsuro Narita
+Shu-Chun Chu
+Chi-Ching Lin
+Jing-Yuan Ko
+Lucia Zemanov\xc3\xa1
+Gorka Zamora
+R\xc3\xa9gis Barille
+Sohrab Ahmadi-Kandjani
+Ewelina Ortyl
+Stanislaw Kucharski
+Jean-Michel Nunzi
+Adolfo Esteban-Mart\xc3\xadn
+Manuel Mart\xc3\xadnez-Quesada
+Victor B. Taranenko
+Eugenio Rold\xc3\xa1n
+Germ\xc3\xa1n J. de Valc\xc3\xa1rcel
+Marco Righero
+Olivier Rivoire
+Julien Barr\xc3\xa9
+S. V. Dudiy
+Alex Zunger
+David L. Feder
+A. Fingerle
+S. Herminghaus
+Juan Carlos Garc\xc3\xada-Escart\xc3\xadn
+Pedro Chamorro-Posada
+Sergio Alonso
+C. B\xc3\xa9dard
+H. Kr\xc3\xb6ger
+A. Destexhe
+M. Cristina Diamantini
+Carlo A. Trugenberger
+Sebasti\xc3\xa1n Bouzat
+Ricardo Farengo
+Adrian Neagu
+Karoly Jakab
+Richard Jamison
+Gabor Forgacs
+Wenqiang Wang
+Shengwei Chen
+Christian Zemlin
+Marcel Wellner
+Roman Zaritsky
+Arkady Pertsov
+Richard Kleeman
+Jaehyuk Choi
+Martin Z. Bazant
+Dietmar Plenz
+Robert Shcherbakov
+Gleb Yakovlev
+John B. Rundle
+Luca Donetti
+Pablo I. Hurtado
+Miguel A. Mu\xc3\xb1oz
+Mark Tinsley
+Jianxia Cui
+Florin V. Chirila
+Annette Taylor
+Shi Zhong
+Kenneth Showalter
+D. L. Zhou
+M.-S. Chang
+M. S. Chapman
+A. M. Povolotsky
+Viviane M. de Oliveira
+Ronaldo Giro
+Douglas S. Galv\xc3\xa3o
+Amanda J. Preyer
+Robert J. Butera
+M. Markus
+O. Schulz
+E. Goles
+Clayton Haldeman
+Bal\xc3\xa1zs Kozma
+Matthew B. Hastings
+Fangliang He
+Stephen P. Hubbell
+Antonio Turiel
+Jordi Isern-Fontanet
+Emilio Garcia-Ladona
+Jordi Font
+Edith Perrier
+Mohammed Altaj
+Henri Laurie
+Gareth Witten
+Valerie N. Livina
+Naoko Aoyagi
+Fumiharu Togo
+M. Campillo
+Walter Nadler
+Sergei Stanchits
+Georg Dresen
+J. G. Laven
+Bal\xc3\xa1zs R\xc3\xa1cz
+Andr\xc3\xa1s Luk\xc3\xa1cs
+Ariel Livne
+Oded Ben-David
+Jay Fineberg
+A. B. Nych
+U. M. Ognysta
+V. M. Pergamenshchik
+B. I. Lev
+V. G. Nazarenko
+I. Mu\xc5\xa1evi\xc4\x8d
+M. \xc5\xa0karabot
+O. D. Lavrentovich
+Konstantin Mergenthaler
+Hern\xc3\xa1n Ritacco
+Flavien Kiefer
+Dominique Langevin
+Steffen Bohn
+Marcelo O. Magnasco
+S. Sacanna
+W. K. Kegel
+A. P. Philipse
+Eugenio Lippiello
+Cataldo Godano
+J. C. Cressoni
+Marco Antonio Alves da Silva
+Hayato Shiba
+Jori E. Ruppert-Felsot
+Yoshiki Takahashi
+Yoshihiro Murayama
+Hisashi Ohtsuki
+Murad R. Qubbaj
+Viktor K. Jirsa
+C. J. Paley
+S. R. Elliott
+Ruslan Prozorov
+Dirk Lebiedz
+Ulrich Brandt-Pollmann
+C.-M. Ghim
+Dieter Braun
+Noel L. Goddard
+Albert Libchaber
+J. M. Casado
+A. L. Zanin
+A. S. Moskalenko
+Veniamin Y. Sidorov
+Rubin R. Aliev
+Marcella C. Woods
+Franz Baudenbacher
+Petra Baudenbacher
+John P. Wikswo
+Alessandro Torcini
+Felipe Lesmes
+David Hochberg
+Federico Mor\xc3\xa1n
+Juan P\xc3\xa9rez-Mercader
+R. Martin
+G.-L. Oppo
+Kestutis Staliunas
+Michel Henriot
+Javier Burguete
+Roland Ribotta
+J.-H. Kim
+Elad Schneidman
+Susanne Still
+Michael J. Berry, II
+William Biale
+Roni Parshani
+M. Belkin
+A. Snezhko
+I. S. Aranson
+W.-K. Kwok
+Natali Gulbahce
+Christof Teuscher
+Toru Nakamura
+Kazuhiro Yoshiuchi
+Rika Nakahara
+Francisco-Jos\xc3\xa9 P\xc3\xa9rez-Reche
+Lev Truskinovsky
+Giovanni Zanzotto
+M. Block
+E. Sch\xc3\xb6ll
+D. Drasdo
+Aletta A. Verhoeff
+Melissa L. Kistler
+Anish Bhatt
+Joe Pigga
+Mark Klokkenburg
+Sandra Veen
+Soumyajit Roy
+Tianbo Liu
+Juan A. Acebr\xc3\xb3n
+Jan Ludvig Vinningland
+\xc3\x98istein Johnsen
+Renaud Toussaint
+Chi Kong Tse
+Arthur V. Straube
+Vishal Sood
+Maximilian Jonas Werner
+B. Sandnes
+H. A. Knudsen
+E. G. Flekk\xc3\xb8y
+Francis Corson
+G. Li
+S. Perri
+E. Yordanova
+P. Veltri
+R. Bruno
+Y. Khotyaintsev
+M. Andr\xc3\xa9
+Eleni Katifori
+Gergely J. Sz\xc3\xb6ll\xc5\x91si
+Kazumasa A. Takeuchi
+L. Gelens
+D. Gomila
+G. Van der Sande
+M. A. Mat\xc3\xadas
+P. Colet
+Fumito Mori
+Michael Mitzenmacher
+Surya Ganguli
+Yong Wang
+Giovanni Zocchi
+O. Ben-Nun
+I. Einav
+A. Tordesillas
+C. Crauste-Thibierge
+C. Brun
+F. Ladieu
+D. L\xe2\x80\x99H\xc3\xb4te
+G. Biroli
+J-P. Bouchaud
+Serena Bradde
+Fabio Caccioli
+V. Navarro
+Tamar Goldman
+Michael L\xc3\xa4ssig
+Ugo Bastolla
+D. J. Patil
+Eugenia Kalnay
+James A. Yorke
+S. H. Yook
+Y. Tu
+Ichiro Hidaka
+Shinji Tomono
+Keren Erez
+M. Droz
+J. von Hardenberg
+E. Meron
+M. Shachak
+Y. Zarmi
+O. Pierre-Louis
+M. I. Haftel
+P. Parmananda
+Takashi Amemiya
+Olga V. Kirillova
+Raghuveer Parthasarathy
+Xiao-Min Lin
+Heinrich M. Jaeger
+Pedro Bernaola-Galv\xc3\xa1n
+Asaki Saito
+Makoto Taiji
+Takashi Ikegami
+Marisol Koslowski
+Richard LeSar
+Robb Thomson
+D. G. M\xc3\xadguez
+E. M. Nicola
+J. Casademunt
+L. Kramer
+T. Gilbert
+Y. Ageon
+Choongseop Lee
+Yong Lee
+R. Woodard
+Michael Schindler
+Peter Talkner
+Peter H\xc3\xa4nggi
+Kristina Lisa Shalizi
+Ronaldo Erichsen
+I. I. Smalyukh
+S. Chernyshuk
+U. Ognysta
+E. Faleiro
+J. M. G. G\xc3\xb3mez
+R. A. Molina
+L. Mu\xc3\xb1oz
+A. Rela\xc3\xb1o
+J. Retamosa
+K. M. Hill
+G. Gioia
+D. Amaravadi
+Michael Zaiser
+Frederic Madani Grasset
+Vasileios Koutsos
+Elias C. Aifantis
+Daniel M. Abrams
+Satoshi Yukawa
+Nobuyasu Ito
+Alexander Zumdieck
+E. Gilad
+A. Provenzale
+Brent T. Ginn
+Oliver Steinbock
+G. J. Ackland
+I. D. Gallagher
+J. L. Jacobsen
+H. Saleur
+Ram\xc3\xb3n Huerta
+Mikhail Rabinovich
+K. Yamasaki
+A. Gozolchiani
+Anastasios A. Tsonis
+Kyle L. Swanson
+Xin Shao
+Yabi Wu
+Jinzhong Zhang
+Sang-Woo Kim
+Cecilia Nardini
+Chaoming Song
+Hern\xc3\xa1n A. Makse
+Ralph Savelsberg
+Lu\xc3\xads M. A. Bettencourt
+Vadas Gintautas
+Michael I. Ham
+O. Hovorka
+G. Friedman
+Bastien Fernandez
+Matti Nykter
+Nathan D. Price
+Antti Larjo
+Tommi Aho
+Jake M. Hofman
+J. Barr\xc3\xa9
+T. Lookman
+A. Saxena
+H. G. E. Hentschel
+Andr\xc3\xa9 Auto Moreira
+Roberto F. Gal\xc3\xa1n
+Nathaniel N. Urban
+L. \xe2\x80\x89S. Levitov
+B. \xe2\x80\x89D. Simons
+L. \xe2\x80\x89V. Butov
+G. M. Shim
+Hoyun Lee
+A. Trusina
+Min-Young Kim
+Rajarshi Roy
+Joan L. Aron
+Thomas W. Carr
+Krzysztof Malarz
+Luciano R. da Silv
+Kristin Jonsdottir
+Victor M. Egu\xc3\xadluz
+Guillermo A. Cecchi
+Marwan Baliki
+A. Vania Apkarian
+M. Griffa
+C. A. Condat
+S. Delsanto
+L. Morra
+Yuhai Tu
+G. Grinstein
+Karl Young
+Yue Chen
+John Kornak
+Gerald B. Matson
+Norbert Schuff
+Collins G. Assisi
+J. A. Scott Kelso
+Jian-Bo Gao
+Nageswara S. V. Rao
+Jing Hu
+Jing Ai
+S. Coombes
+M. R. Owen
+Qing Ou
+Nicolas Brunel
+David Hansel
+G. Ouillon
+Sui Huang
+Gabriel Eichler
+Donald E. Ingber
+E. Edlund
+M. Nilsson Jacobi
+Norbert Stoop
+Falk K. Wittel
+Martine Ben Amar
+Martin Michael M\xc3\xbcller
+Ying Li
+Sean D. Barrett
+Thomas M. Stace
+Simon C. Benjamin
+D. Hunt
+Filippo Caruso
+Susana F. Huelga
+Martin B. Plenio
+Roberta Sinatra
+Daniele Condorelli
+Jiankui He
+Michael W. Deem
+M\xc3\xa1ria Ercsey-Ravasz
+Jacob Ratkiewicz
+N. A. M. Ara\xc3\xbajo
+D. Markovic
+Myl\xc3\xa9ne Mathieu
+V. Flunkert
+S. Yanchuk
+T. Dahms
+Veronica Nieves
+Jingfeng Wang
+Rafael L. Bras
+Elizabeth Wood
+Shahar Hod
+Lu\xc3\xads A. Nunes Amara
+Paul C. Bressloff
+F. Vega-Redondo
+A. Cabrales
+A. G. Vladimirov
+Paul Mandel
+R. Mulet
+A. Pagnani
+M. Weigt
+R. Zecchina
+M. A. Mu\xc3\xb1oz
+Tal Carmon
+Marin Solja\xc4\x8di\xc4\x87
+Mordechai Segev
+A. Helmstetter
+John G. Milton
+C. A. Trugenberger
+Mauricio Barahona
+Louis M. Pecora
+Johannes Berg
+I. Bena
+I. Lagzi
+K. Martens
+A. Volford
+Will Brunner
+Hilary A. Carteret
+Kelly John Rose
+B. Houchmandzadeh
+Tore Opsahl
+Pietro Panzarasa
+Jose J. Ramasco
+Y. L. Wang
+Y. Liu
+Milan Palu\xc5\xa1
+G. J. Baxter
+R. A. Blythe
+A. J. McKane
+Bartolo Luque
+K. R. Elder
+Lukas Jahnke
+Richard Berkovits
+Michele Leone
+Hyejin Youn
+John M. Robinson
+T. Maillart
+S. Spaeth
+G. von Krogh
+S. Barbay
+X. Hachair
+T. Elsass
+I. Sagnes
+R. Kuszelewicz
+N. Stoop
+F. K. Wittel
+Sarah Touati
+Mark Naylor
+Ian G. Main
+Simone Pigolotti
+Mogens H. Jensen
+Fabian Gans
+Aicko Y. Schumann
+Thomas Penzel
+Ingo Fietze
+J. W. Kim
+J.-S. Lee
+D.-U. Jeong
+\xc3\x81. W. Imre
+M. Sch\xc3\xb6nhoff
+C. Cramer
+Yakir Berchenko
+Mina Teicher
+Jordi Garcia-Ojalvo
+P. Manshour
+S. Saberi
+Stephen Carter
+S. Van Segbroeck
+T. Lenaerts
+Mark R. Tinsley
+Annette F. Taylor
+Zhaoyang Huang
+Takaaki Aoki
+Toshio Aoyagi
+Alexander John
+Andreas Schadschneider
+Debashish Chowdhury
+W. F. Pasveer
+P. A. Bobbert
+H. P. Huinink
+M. A. J. Michels
+Russell W. Giannetta
+Anatolii A. Polyanskii
+Garry K. Perkins
+Chiara Baggio
+Raymond E. Goldstein
+Adriana I. Pesci
+Wim van Saarloos
+M. Menghini
+b""""P. Vargas
+D. Altbir
+J. d'Albuquerque e Castro""""""
+M. Bartolozzi
+T. Surungan
+D. B. Leinweber
+A. G. Williams
+G. K. Singh
+J. Krug
+V. Tonchev
+S. Stoyanov
+A. Pimpinelli
+Diana Shvydka
+V. G. Karpov
+R. A. Puglisi
+G. Nicotra
+S. Lombardo
+C. Spinella
+G. Ammendola
+C. Gerardi
+Mariela Menghini
+Rinke J. Wijngaarden
+J. Quintanilla
+V. L. Campo
+Cem Yolcu
+A. L. Cardoso
+A. M. C. Souza
+Sa\xc3\xbcl V\xc3\xa9lez
+Carles Panad\xc3\xa8s-Guinart
+Guillem Abril
+Antoni Garc\xc3\xada-Santiago
+Joan Manel Hernandez
+Javier Tejada
+Aleksander Zubelewicz
+Arthur R. McGurn
+D. Reyes
+A. Paduan-Filho
+M. A. Continentino
+Ernesto Pineda Le\xc3\xb3n
+Antonio Horta Rangel
+Neng Wan (\xe4\xb8\x87\xe8\x83\xbd)
+Jun Xu (\xe5\xbe\x90\xe9\xaa\x8f)
+Tao Lin (\xe6\x9e\x97\xe6\xb6\x9b)
+Ling Xu (\xe5\xbe\x90\xe5\xb2\xad)
+Kunji Chen (\xe9\x99\x88\xe5\x9d\xa4\xe5\x9f\xba)
+C. C. Homes
+G. D. Scott
+Z. K. Keane
+J. W. Ciszek
+J. M. Tour
+D. Natelson
+T. Karabacak
+M. Yuksel
+Shih-Chang Lee
+J. R. Iglesias
+S. Gon\xc3\xa7alves
+O. A. Nagel
+Miguel Kiwi
+J. G. Amar
+M. N. Popescu
+I. V. Zozoulenko
+T. Blomquist
+Pai-Yi Hsiao
+Pascal Monceau
+Guillermo P. Ortiz
+W. Luis Moch\xc3\xa1n
+M. S. Levine
+T. V. Savina
+W. Knafo
+S. Raymond
+J. Flouquet
+B. F\xc3\xa5k
+M. A. Adams
+P. Haen
+F. Lapierre
+S. Yates
+P. Lejay
+I. Malakhovsky
+N. Abedpour
+M. Neek-Amal
+Reza Asgari
+F. Shahbazi
+N. Nafari

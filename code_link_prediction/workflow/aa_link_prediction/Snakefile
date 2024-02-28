@@ -1,0 +1,59 @@
+import os
+import pandas as pd
+import numpy as np
+
+TARGET_ROOT = '../../../data'
+
+REAL_EDGE_TIME_PATH = os.path.join(TARGET_ROOT, 'edge_time', 'real_edge_time', '{network_name}_real.txt') 
+RESTORED_EDGE_TIME_PATH = os.path.join(TARGET_ROOT, 'edge_time', 'lp_repeat', '{network_name}_lp_repeat{repeat}.txt')
+RESTORED_AA = os.path.join(TARGET_ROOT, 'aa_link_prediction', '{network_name}', 'aa_link_prediction_{network_name}_counter{repeat}_theta{theta}_restored.csv')
+RESTORED_AA_ALL = os.path.join(TARGET_ROOT, 'aa_link_prediction', 'aa_link_prediction_restored_all.csv')
+
+STATIC_RESTORED_EDGE_TIME_PATH = os.path.join(TARGET_ROOT, 'edge_time', 'lp_repeat', '{network_name}_lp_repeat1.txt')
+STATIC_AA = os.path.join(TARGET_ROOT, 'aa_link_prediction', '{network_name}', 'aa_link_prediction_{network_name}_static.csv')
+STATIC_AA_ALL = os.path.join(TARGET_ROOT, 'aa_link_prediction', 'aa_link_prediction_static_all.csv')
+
+#NETWORK_NAME = [
+#    'human', 'fruit_fly', 'worm', 'bacteria', 'complex_networks', 'fluctuations', 'phase_transitions', 
+#    'thermodynamics', 'WTW', 'ferry', 'coach', 'weaver', 'aircraft', 'ants', 'fungi', 'interfaces', 'chaos']
+#THETA = [0.0001, 0.0005, 0.001, 0.005, 0.01, 0.02, 0.03, 0.04, 0.05, 0.1, 0.2] 
+#REPEAT = list(range(1, 11))
+NETWORK_NAME = ['worm']
+THETA = [0.1]
+REPEAT = [1]
+
+rule run_aa_repeat_all:
+    input:
+        expand(RESTORED_AA, network_name=NETWORK_NAME, theta=THETA, repeat=REPEAT)
+    output:
+        RESTORED_AA_ALL
+    shell:
+        'python3 ../merge_results.py {input} {output}'
+
+rule run_aa_repeat:
+    input:
+        REAL_EDGE_TIME_PATH, RESTORED_EDGE_TIME_PATH
+    params:
+        '{theta}', '{network_name}', '{repeat}'
+    output:
+        RESTORED_AA
+    shell:
+        'python3 aa_predict_last_repeat_restored.py {input} {params} {output}'
+
+rule run_aa_static_all:
+    input:
+        expand(STATIC_AA, network_name=NETWORK_NAME)
+    output:
+        STATIC_AA_ALL
+    shell:
+        'python3 ../merge_results.py {input} {output}'
+
+rule run_aa_static:
+    input:
+        REAL_EDGE_TIME_PATH, STATIC_RESTORED_EDGE_TIME_PATH
+    params:
+        '{network_name}'
+    output:
+        STATIC_AA
+    shell:
+        'python3 aa_predict_last_static.py {input} {params} {output}'

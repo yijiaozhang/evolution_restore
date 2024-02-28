@@ -1,0 +1,2745 @@
+B. A. H. Huisman
+A. Fasolino
+A. Milchev
+M. Muller
+K. Binder
+Yup Kim
+S. Y. Yoon
+D. B. Abraham
+A. Maciolek
+Satya N. Majumdar
+Changhan Lee
+Jin Min Kim
+Hailu Gebremariam
+T. L. Einstein
+Reinhard Lipowsky
+E. Falck
+O. Punkkinen
+I. Vattulainen
+T. Ala-Nissila
+E. Sloutskin
+O. Gang
+H. Kraack
+E. B. Sirota
+B. M. Ocko
+M. Deutsch
+D. P. Landau
+L. Bruschi
+A. Carlin
+A. O. Parry
+G. Mistura
+Hyeong-Chai Jeong
+K. Knorr
+Kwangho Park
+Jae Hwan Lee
+In-mook Kim
+Hyunggyu Park
+O. M. Braun
+R. Ferrando
+S. Dietrich
+Ville Mustonen
+A. J. Wood
+K. Rejmer
+Andrzej Drzewi¨½ski
+Douglas Davidson
+Marcel den Nijs
+F. Schmid
+E. Eisenriegler
+Enrico Carlon
+J. Heinonen
+J. M. Kosterlitz
+T. Hjelt
+S. Herminghaus
+S. C. Ying
+K. Kjaer
+A. M. Lacasta
+B. R. Conrad
+W. G. Cullen
+D. B. Dougherty
+I. Lyubinetsky
+E. D. Williams
+A. Drzewi¨½ski
+Axel Voigt
+A. Kolakowska
+M. A. Novotny
+M. J. Bojan
+G. Stan
+S. Curtarolo
+W. A. Steele
+M. W. Cole
+Jae Dong Noh
+A. Hanke
+V. M. Kaganer
+G. Brezesinski
+H. Mohwald
+P. B. Howes
+M.-P. Kuittu
+M. Haataja
+N. Provatas
+Chen-Shan Chin
+C. Rascon
+B. Marchon
+Youngkyun Jung
+P. Desjardins
+A. Vanossi
+A. Franchini
+V. Bortolani
+G. Santoro
+T. Laurila
+Yan-Mei Yu
+A. Barasi¨½ski
+Michel Pleimling
+R. K. P. Zia
+A. Ciach
+F. Montalenti
+Peter Lajko
+Ferenc Igloi
+Jane Kondev
+Christopher L. Henley
+K. Mazzitello
+J. L. Iguain
+C. M. Aldao
+H. O. Martin
+Hyun-Joo Kim
+Heiko Rieger
+Per Arne Rikvold
+M. Kolesik
+Loic Turban
+Martin Grant
+K. R. Elder
+E. B. Loginov
+A. M. Ferrenberg
+S. Das Sarma
+Doochul Kim
+Z. Toroczkai
+G. Korniss
+J. M. Lahtinen
+Z. Chvoj
+M. Dube
+S. Majaniemi
+M. Rost
+R. Evans
+F. Schlesener
+R. Klimpel
+E. Kuusela
+B. Yang
+M. Napiorkowski
+Seok-Cheol Hong
+Xiaowei Zhuang
+Y. R. Shen
+M. Krech
+Herbert Levine
+Yuhai Tu
+M. Itoh
+Hong Guo
+David Jasnow
+S. V. Ghaisas
+J. M. Kim
+Fong Liu
+Horia Metiu
+S. H. Yook
+Bang-Gui Liu
+A. H. Romero
+J. M. Sancho
+J. M. Romero-Enrique
+M. J. Greenall
+M. Constantin
+C. Dasgupta
+P. Punyindu Chatraphorn
+P. I. Tamborenea
+J. Timonen
+C. K. Lee
+Xing Wei
+Tomohisa Goto
+I. Koponen
+M. Rusanen
+Z. Q. Wu
+Y. Hasegawa
+J. M. Houlrik
+P. W. Voorhees
+I. M. Sokolov
+K. Lindenberg
+F. Tavazza
+L. Nurminen
+A. Kuronen
+K. Kaski
+C. Eckl
+A. P. Mayer
+A. M. Lomonosov
+P. Hess
+Wei Hong
+B. Kozma
+Jian Hua Yao
+L. Ponson
+N. Manini
+G. E. Santoro
+E. Tosatti
+P. Guyot-Sionnest
+Jorge Vials
+V. Staemmler
+Christopher Roland
+Bruno Grossmann
+David A. Kessler
+M. B. Feller
+W. Chen
+J. W. Evans
+H. J. W. Zandvliet
+A. I. Volokitin
+B. N. J. Persson
+L. V. Pourovskii
+A. V. Ruban
+B. Johansson
+I. A. Abrikosov
+G. A. D. Briggs
+A. P. Sutton
+W. F. Chung
+Y. J. Feng
+H. C. Poon
+C. T. Chan
+S. Y. Tong
+M. S. Altman
+M. F. Reedijk
+J. Arsic
+S. A. de Vries
+E. Vlieg
+Iskander G. Batyrev
+S. B. Zhang
+Su-Huai Wei
+T. Okano
+M. Hupalo
+M. C. Tringides
+M. L. Anderson
+P. J. Feibelman
+B. S. Swartzentruber
+L. Casalis
+B. Nickel
+G. Scoles
+S. Matsuura
+S. Heike
+T. Onogi
+K. Kitazawa
+T. Uda
+T. Hashizume
+A. Siber
+B. Gumhalter
+Jorg Neugebauer
+Matthias Scheffler
+John E. Northrup
+Huajie Chen
+R. M. Feenstra
+B. Meyer
+M. Kunat
+U. Burghaus
+Ch. Woll
+L. M. Molina
+B. Hammer
+D. Kaminski
+K. F. McCarty
+N. C. Bartelt
+Angelo Bongiorno
+Alfredo Pasquarello
+Mark S. Hybertsen
+L. C. Feldman
+O. M. Magnussen
+R. J. Behm
+Xudong Xiao
+Z. Ding
+D. W. Bullock
+P. M. Thibado
+V. P. LaBella
+W. G. Schmidt
+P. H. Hahn
+F. Bechstedt
+N. Esser
+P. Vogt
+W. Richter
+Karsten Reuter
+?. Sljivan?anin
+W. Braun
+B. Jenichen
+L. Daweritz
+K. H. Ploog
+G. Kresse
+R. Pentcheva
+M. Scheffler
+D.-S. Lin
+T.-C. Chiang
+A. Rastelli
+H. von Kanel
+G. Albini
+P. Raiteri
+D. B. Migas
+Leo Miglio
+J. C. Hamilton
+Donald J. Siegel
+S. Kodambaka
+W. Swiech
+I. Petrov
+C. P. Flynn
+C. Gonzalez
+F. Flores
+J. Ortega
+M. G. Fyta
+I. N. Remediakis
+P. C. Kelires
+P. Linde
+S. Andersson
+D. Bonamy
+E. Bouchaud
+Jorg Behler
+N. Lorente
+M. Blanco-Rey
+J. Abad
+C. Rogero
+P. L. de Andres
+C. Tusche
+H. L. Meyerheim
+N. Jedrecy
+G. Renaud
+A. Ernst
+J. Henk
+P. Bruno
+J. Kirschner
+M. Schmidbauer
+M. Hanke
+R. Kohler
+Maozhi Li
+M. H. Pan
+E. W. Plummer
+Feng Liu
+Guang-Hong Lu
+X. G. Gong
+G.-W. Zhou
+J. A. Eastman
+W. Ji
+D. X. Shi
+H.-J. Gao
+P. Boguslawski
+J. Bernholc
+E. H. Conrad
+R. Feng
+J. J. Hoyt
+G. Fois
+F. Buatier de Mongeot
+C. Boragno
+R. Buzio
+U. Valbusa
+P. Luches
+S. Valeri
+F. Boscherini
+S. von Alfthan
+R. van Gastel
+G. L. Kellogg
+K. B. Jinesh
+J. W. M. Frenken
+Roberto Car
+K. Urban
+Ph. Ebert
+J. B. Hannon
+J. Sun
+K. Pohl
+J. K. Norskov
+M. Durr
+U. Hofer
+M. Schmid
+A. Stierle
+J. Klikovits
+O. Dubay
+J. Gustafson
+E. Lundgren
+J. N. Andersen
+H. Dosch
+P. Varga
+M. J. Beck
+M. Asta
+M. J. Miksis
+X. D. Wang
+Qian Niu
+Zhenyu Zhang
+C. K. Shih
+A. Munkholm
+S. K. Streiffer
+M. V. Ramana Murty
+Carol Thompson
+O. Auciello
+G. B. Stephenson
+O. Rodriguez de la Fuente
+M. A. Gonzalez
+J. de la Figuera
+J. M. Rojo
+Y. Fujikawa
+K. Akiyama
+T. Nagao
+T. Sakurai
+M. G. Lagally
+T. Hashimoto
+Y. Morikawa
+K. Terakura
+V. Petrova
+S. V. Khare
+D. D. Johnson
+J. E. Greene
+Harald Brune
+M. C. Desjonqueres
+D. Spanjaard
+C. Barreteau
+F. Raouafi
+A. Goldoni
+C. Cepek
+R. Larciprete
+L. Sangaletti
+S. Pagliara
+G. Paolucci
+M. Sancrotti
+Z. Hu
+A. Biedermann
+T. F. Heinz
+Bene Poelsema
+Navot Israeli
+Daniel Kandel
+K. Morgenstern
+K. W. Jacobsen
+K.-H. Rieder
+E. Lagsgaard
+F. Besenbacher
+Satoshi Watanabe
+Masaru Tsukada
+T. E. Kidd
+T. Miller
+M. Y. Chou
+L. Petersen
+Ismail
+H. W. Yeom
+R. Nyholm
+X. Torrelles
+J. Rius
+O. Eriksson
+C. Konvicka
+V. Ozolins
+I. Daruka
+Lei Cai
+E. Granato
+F. K. Men
+F. J. Himpsel
+K. Schroeder
+A. Antons
+R. Berger
+S. Blugel
+J. Neugebauer
+L. A. Boatner
+Roland Stumpf
+C. M. Wei
+H. Wedler
+K. Heinz
+Max G. Lagally
+J.-K. Zuo
+J. F. Wendelken
+Y.-N. Yang
+J. A. Carlisle
+C. J. Karlsson
+E. Landemark
+P. Martensson
+R. I. G. Uhrberg
+S. Modesti
+F. K. LeGoues
+P. M. Mooney
+J. Tersoff
+D. F. Ogletree
+M. Salmeron
+Byung Deok Yu
+Atsushi Oshiyama
+W. W. Pai
+J. E. Reutt-Robey
+Noboru Takeuchi
+A. Selloni
+H. C. Lu
+T. Gustafsson
+Christian Teichert
+Michael Hohage
+Thomas Michely
+George Comsa
+A. Kara
+C. S. Jayanthi
+S. Y. Wu
+F. Ercolessi
+Mark Mostoller
+M. F. Chisholm
+Theodore Kaplan
+H. Hibino
+T. Ogino
+John R. Smith
+Tao Hong
+David J. Srolovitz
+Efthimios Kaxiras
+F. M. Leibsle
+R. Davis
+M. Bowker
+K. G. Huang
+J. Zegenhagen
+J. R. Patel
+Alberto Pimpinelli
+D. P. Woodruff
+D. J. Eaglesham
+A. E. White
+N. Moriya
+D. C. Jacobson
+Y. Joly
+Peter Zeppenfeld
+Christoph Romainczyk
+S. Yu. Krylov
+G. Le Lay
+L. Ruan
+I. Stensgaard
+E. Laegsgaard
+M. M. Nielsen
+J. Burchhardt
+D. L. Adams
+Chonglin Chen
+Tien T. Tsong
+P. W. Murray
+C. A. Muryn
+H. J. Fisher
+C. F. J. Flipse
+G. Thornton
+M. Copel
+R. M. Tromp
+A. W. Denier van der Gon
+E. Fontes
+F. Comin
+Q.-M. Zhang
+M. D. Johnson
+J. Sudijono
+B. G. Orr
+Elmar Hahn
+Alexander Fricke
+Klaus Kern
+J. Camarero
+J. J. de Miguel
+R. Miranda
+S. Song
+S. G. J. Mochrie
+M. C. Reuter
+Y. H. Xie
+G. H. Gilmer
+C. Roland
+P. J. Silverman
+S. K. Buratto
+J. Y. Cheng
+E. A. Fitzgerald
+A. R. Kortan
+S. Schuppler
+M. A. Marcus
+P. H. Citrin
+L. Y. Chen
+Elisabeth Kampshoff
+J. V. Seiple
+J. P. Pelz
+Holger Roder
+Corrado Boragno
+S. -L. Chang
+J. W. Burnett
+P. A. Thiel
+N. Takagi
+J. Yoshinobu
+Hao-tse Wu
+Xun Chen
+Fang Wu
+P. A. Bennett
+David G. Cahill
+G. C. L. Wong
+C. A. Lucas
+D. Loretto
+A. P. Payne
+P. H. Fuoss
+Ellen D. Williams
+V. R. Dhanak
+Axel Gross
+Bjork Hammer
+Y. Qian
+M. J. Bedzyk
+S. Tang
+A. J. Freeman
+G. E. Franklin
+M. T. Sieger
+M. Hammar
+Henk van Beijeren
+L. Schwenger
+K. Budde
+C. Voges
+H. Pfnur
+A. Locatelli
+B. Brena
+S. Lizzit
+G. Comelli
+R. Rosei
+J. V. Lauritsen
+S. Helveg
+Rossitza Pentcheva
+Wolfgang Moritz
+Chung-Kai Fang
+V. B. Nascimento
+D. Mandrus
+Jiandi Zhang
+R. Jin
+A. F. Voter
+J. Creuze
+B. Legrand
+V. Chis
+B. Hellsing
+G. Benedek
+M. Bernasconi
+E. V. Chulkov
+J. P. Toennies
+N. V. Medhekar
+H. I. Li
+K. Pussi
+W. Moritz
+J. A. Smerdon
+R. McGrath
+R. D. Diehl
+Xu-Cun Ma
+Qi-Kun Xue
+Jin-Feng Jia
+X. D. Zhu
+A. Lee
+A. Wong
+U. Linke
+J. C. Woicik
+T. Kendelewicz
+K. E. Miyano
+P. L. Cowan
+C. E. Bouldin
+B. A. Karlin
+P. Pianetta
+W. E. Spicer
+O. Brandt
+K. Ploog
+W. K. Han
+D. E. Jesson
+S. J. Pennycook
+J.-M. Baribeau
+D. C. Houghton
+P. Bedrossian
+T. Klitsner
+Hawoong Hong
+R. D. Aburano
+Haydn Chen
+P. Zschack
+I. Stich
+M. C. Payne
+R. D. King-Smith
+J-S. Lin
+L. J. Clarke
+A. Nilsson
+H. Tillborg
+N. Martensson
+D. Fisher
+A. R. Sandy
+D. M. Zehner
+G. Grubel
+Doon Gibbs
+E. Hulpke
+A. Kahn
+C. B. Duke
+A. Paton
+E. Pehlke
+J. A. Kubby
+W. J. Greene
+A. Loiseau
+R. Caudron
+M. Needels
+J. D. Joannopoulos
+Ing-Shouh Hwang
+R. Dippel
+M. C. Asensio
+A. W. Robinson
+K.-M. Schindler
+K.-U. Weiss
+P. Gardner
+A. M. Bradshaw
+H. L. Davis
+M. Zinke-Allmang
+X.-S. Wang
+J. L. Goldberg
+G. Zhang
+M. Qvarford
+J. F. van Acker
+B. S. Kwak
+A. Erbil
+B. J. Wilkens
+J. D. Budai
+M. Ishida
+C. Astaldi
+A. Bianco
+H. Brune
+J. Wintterlin
+G. Ertl
+A. P. Baddorf
+H. Tanaka
+J. S. Nelson
+Peter J. Feibelman
+A. Baraldi
+M. Kiskinova
+N. Pangher
+J. Haase
+M. Horn-von Hoegen
+B. H. Muller
+A. Al-Falou
+M. Henzler
+R. J. Wilson
+S. Chiang
+D. L. Abernathy
+R. J. Birgeneau
+K. I. Blum
+J. Fritsch
+P. Pavone
+U. Schroder
+Siqing Wei
+David Vanderbilt
+A. Barbieri
+M. A. Van Hove
+G. A. Somorjai
+J. Z. Tischler
+G. M. Watson
+Mirang Yoon
+V. Fritzsche
+A. R. Gonzalez-Elipe
+I. Stich
+K. D. Brommer
+B. E. Larson
+Munehiro Sugiyama
+Satoshi Maeyama
+Masaharu Oshima
+Jene A. Golovchenko
+Vincenzo Fiorentini
+Michael Methfessel
+L. Kuipers
+M. S. Hoogeman
+K. H. Rieder
+G. Parschau
+B. Burg
+N. Kitamura
+M. B. Webb
+H. Hoche
+R. Vollmer
+Sverre Froyen
+R. Koch
+L. D. Marks
+J. Bevk
+H. Shinohara
+Y. Saito
+Y. Nishina
+H. W. Pickering
+Y. Kuk
+S. G. Jaloviar
+D. E. Savage
+Shudun Liu
+H. Ibach
+M. Poensgen
+A. P. Kaduwela
+C. S. Fadley
+R. J. Phaneuf
+E. Bauer
+F. Ancilotto
+R. Car
+Sabrina Oppo
+K. Cho
+Y. Kim
+A. Ourmazd
+I. T. Koponen
+X.-D. Wang
+O. Wieckhorst
+S. Muller
+L. Hammer
+Henny W. Zandbergen
+D. Fuhrmann
+D. A. Neumann
+W. L. Ling
+R. Q. Hwang
+A. K. Schmid
+G. E. Thayer
+A. Mikkelsen
+M. Borg
+L. Kohler
+J. Yuhara
+C. Quiros
+S. D. Barrett
+R. Stumpf
+Wenguang Zhu
+Francesco Buatier de Mongeot
+E. G. Wang
+J. L. Gray
+R. Hull
+J. A. Floro
+F. Baumberger
+M. Shi
+L. Patthey
+J. Osterwalder
+T. Greber
+J. Ledieu
+J. T. Hoeft
+D. E. Reid
+T. A. Lograsso
+A. R. Ross
+G. Prevot
+B. Croset
+T. P. Munt
+V. A. Shchukin
+D. Bimberg
+M. Y. Lai
+Y. L. Wang
+A. Subramanian
+O. Warschkow
+V. B. Shenoy
+E. Chason
+Akihiro Ohtake
+Pavel Kocan
+Jun Nakamura
+Akiko Natori
+Nobuyuki Koguchi
+C. B. Carter
+H.-C. Kan
+S. Shah
+L. Wilzen
+P. J. Rous
+J. B. Pendry
+D. K. Saldin
+K. Muller
+Joseph A. Stroscio
+A. P. Fein
+U. Harten
+H. P. Bonzel
+M. D. Crapper
+B. N. Dev
+G. Materlik
+F. Grey
+R. L. Johnson
+M. Clausnitzer
+I. K. Robinson
+W. K. Waskiewicz
+R. T. Tung
+J. Bohr
+M. Parrinello
+E. J. Mele
+S. Brennan
+Terrence Jach
+J. R. Manson
+H. Zabel
+M. Suzuki
+Rudolf David
+Robert L. Palmer
+S. P. Chen
+B. Abeles
+P. E. Freeland
+J. A. Golovchenko
+R. S. Becker
+G. S. Higashi
+K. K. Mon
+M. Bader
+A. Puschmann
+C. Ocal
+D. W. Taylor
+J. P. Mannaerts
+E. Kaxiras
+Y. Bar-Yam
+K. C. Pandey
+C. Nagl
+E. Platzgummer
+Z. Jiang
+C. Ebner
+M. C. Bartelt
+Karsten Bromann
+D. E. Jones
+S. Ferrer
+V. H. Etgens
+H. A. van der Vegt
+P. Fajardo
+W. Theis
+M. Kottcke
+M. Sauvage-Simkin
+Y. Garreau
+R. Pinchaux
+R. Plass
+M. V. Pykhtin
+M. Y. Lee
+A. A. Maznev
+Al. A. Kolomenskii
+A. Vittadini
+W. F. Saam
+D. M. Chen
+N. G. Condon
+A. R. Lennie
+D. J. Vaughan
+D. Bonart
+J. L. Stevens
+S. M. Foiles
+K. M. Chen
+M. Mostoller
+T. Kaplan
+T. Thundat
+R. J. Warmack
+J. Jacobsen
+J. Ellis
+F. Hofmann
+Steffen Wilke
+Jun Yoshinobu
+Maki Kawai
+R. Schuster
+P. J. Eng
+N. Georgiev
+A. Pavlovska
+E. L. Bullock
+T. Abukawa
+S. Kono
+L. S. O. Johansson
+N. N. Ledentsov
+John D. Weeks
+Shiwu Gao
+W. Ho
+Steven P. Lewis
+Andrew M. Rappe
+J. Ferron
+L. Gomez
+A. L. Vazquez de Parga
+J. M. Gallego
+J. E. Prieto
+T. Balasubramanian
+Sukmin Jeong
+J. M. Gibson
+H. Kawanowa
+R. Souda
+S. Otani
+Ph. Lambin
+V. Derycke
+P. Soukiassian
+A. Mayne
+G. Dujardin
+J. Gautier
+G. R. Bell
+A. R. Avery
+T. S. Jones
+B. A. Joyce
+D. D. Vvedensky
+Akira Kawazu
+J. Wider
+E. Wetli
+P. Sutter
+L. McCaughan
+D.-A. Luh
+W. Silvestri
+A. P. Graham
+P. S. Pershan
+M. Petersen
+F. Wagner
+S. Rusponi
+G. Costantini
+A. I. Shkrebtii
+B. O. Fimland
+A. Kley
+R. Del Sole
+Matthias Kalff
+A. Menzel
+S. Kiriukhin
+C. R. Stoldt
+A. M. Cadilhe
+C. J. Jenks
+J.-M. Wen
+F. Althoff
+T. Andersson
+N. Wassdahl
+S. C. Erwin
+L. J. Whitman
+X. R. Qin
+Gun-Do Lee
+C. Z. Wang
+K. M. Ho
+A. Maiti
+S. T. Pantelides
+Boris B. Stefanov
+Alejandra B. Gurevich
+Marcus K. Weldon
+Krishnan Raghavachari
+G. Witte
+D. D. Chambliss
+P. Kratzer
+M. B. Raschke
+Abdelkader Kara
+Talat S. Rahman
+B. C. Stipe
+M. A. Rezaei
+Ulrike Kurpick
+Ph. Hofmann
+Ch. Grutter
+J. H. Bilgram
+Y. Hong
+I. S. T. Tsong
+D. A. Walko
+Da-Jiang Liu
+S. Renisch
+A. Trayanov
+V. M. Hallmark
+F. Sette
+C. T. Chen
+J. E. Rowe
+O. L. Alerhand
+David J. Smith
+Koos Rommelse
+Amitava Banerjea
+James R. Chelikowsky
+P. K. Wu
+K. P. Bohnen
+J. R. Noonan
+J. E. Griffith
+D. Arvanitis
+L. Wenzel
+K. Baberschke
+G. A. Held
+A. Mak
+W. Daum
+J. E. Muller
+D. M. Bylander
+Leonard Kleinman
+J. F. van der Veen
+K. Horn
+J. W. Chung
+K. Evans-Lutterodt
+P. J. Estrup
+W. Kress
+B. Pluis
+P. Piercy
+H.-P. Rust
+W. Donner
+P. Zeppenfeld
+V. Diercks
+R. Halmer
+R. David
+G. Comsa
+A. Marmier
+C. Ramseyer
+C. Girardet
+R. Ryberg
+G. Charlton
+C. L. Nicklin
+P. Steadman
+J. S. G. Taylor
+D. Norman
+T. S. Turner
+Rong-Li Lo
+H. Ascolani
+J. Avila
+N. Franco
+Louis C. Jorritsma
+Georg Rosenfeld
+P. Stoltze
+Jun-Hyung Cho
+Y. Caudano
+P. A. Thiry
+P. Dumas
+M. Gierer
+A. I. Goldman
+Z. Shen
+S.-L. Chang
+C.-M. Zhang
+A. Glebov
+J. G. Skofronick
+P. Jakob
+F. Semond
+L. Douillard
+L. Pizzagalli
+C. Joachim
+L. Barbier
+S. Goapper
+B. Salanon
+J. Alvarez
+Yoshitada Murata
+C. Stampfl
+T. R. Linderoth
+S. Horch
+Margret Giesen
+Harald Ibach
+S. Tanaka
+G. R. Carlow
+Arthur F. Voter
+Talat. S. Rahman
+M. Persson
+I. Goldfarb
+P. T. Hayden
+J. H. G. Owen
+Changfeng Chen
+T. Hirahara
+I. Matsuda
+G. Bihlmayer
+Yu. M. Koroteev
+P. M. Echenique
+S. Hasegawa
+Arie van Houselt
+Raoul van Gastel
+Harold J. W. Zandvliet
+M. Martin
+M. Lastapis
+D. Riedel
+Ph. Sonnet
+Lixin Zhang
+Q. K. Xue
+W. Eberhardt
+Jiwei Feng
+Wenqing Zhang
+Wan Jiang
+Hui Gu
+P. Falus
+M. A. Borthwick
+Clemens Barth
+Claude R. Henry
+C. Z. Zheng
+C. K. Yeung
+M. M. T. Loy
+Tsuyoshi Uda
+E. Napetschnig
+M. Kulawik
+N. Nilius
+H.-J. Freund
+Y. Han
+T. Tadayyon-Eslami
+J. R. Ahn
+G. Held
+D. A. King
+S. S. Dhesi
+E. Gaudry
+M. Stoffel
+G. S. Kar
+O. G. Schmidt
+Erik Lagsgaard
+Flemming Besenbacher
+J. H. Li
+J. Bai
+S. C. Moss
+Jiandong Guo
+Geunseop Lee
+Yousoo Kim
+Hidemi Shigekawa
+Ho Nyung Lee
+Mina Yoon
+Hans M. Christen
+Zhigang Suo
+Kai Liu
+P.-L. Liu
+A. V. G. Chizmeshya
+J. Kouvetakis
+Dongzhi Hu
+A. K. Das
+Xiao-Gang Wang
+S. Shaikhutdinov
+M. Sierka
+J. Sauer
+Tong Zhao
+B. Grushko
+S. C. Seel
+Sergey Stolbov
+B. J. Spencer
+Arthur R. Smith
+F. Leonard
+R. Herger
+P. R. Willmott
+O. Bunk
+C. M. Schleputz
+B. D. Patterson
+B. Delley
+H. Reichert
+Jutta Rogal
+C. Mocuta
+S. Ostanin
+W. Hergert
+M. Yakes
+C. H. Lanier
+K. R. Poeppelmeier
+A. van de Walle
+Sanwu Wang
+Sokrates T. Pantelides
+Th. Schmidt
+S. Heun
+J. Falta
+C. L. Gao
+W. Wulfhekel
+Minghuang Huang
+Chun-Wei Pao
+R. Martinez-Casado
+J. L. Vega
+A. S. Sanz
+S. Miret-Artes
+Seigi Mizuno
+Hiroshi Tochihara
+W. L. Chan
+Katja Lindenberg
+Paulo V. Santos
+S. Schwegmann
+H. Over
+Karsten W. Jacobsen
+N. M. Markovic
+P. N. Ross
+U. Resch-Esser
+C. Springer
+P. M. Ajayan
+Hanchul Kim
+A. A. Baski
+M. Nielsen
+D.-M. Smilgies
+R. Feidenhans'l
+G. Falkenberg
+L. Seehofer
+R. L. Johnson
+F. A. Moller
+M. Feuerbacher
+J. J. Mortensen
+Alex Zunger
+Kwok-On Ng
+M. Sturmat
+C. S. Chang
+Lee J. Richter
+S.-J. Kahng
+J.-Y. Park
+F. M. Ross
+J. Merikoski
+C. Collazo-Davila
+D. Grozea
+P. Goedtkindt
+W. J. Huisman
+W. J. P. van Enckevort
+Chih-Kang Shih
+Tien-Chih Chang
+S. A. Haycock
+Bert Muller
+Lorenz Nedelmann
+Bjorn Fischer
+Johannes V. Barth
+J. Braun
+U. Starke
+J. Schardt
+J. Bernhardt
+M. Franke
+K. Reuter
+J. Furthmuller
+P. Kackell
+M. Cardona
+Mon-Shu Ho
+G. A. Lucadamo
+L. B. Freund
+R. D. Twesten
+A. P. Seitsonen
+H. Bludau
+S. K. Kim
+M. Giesen
+G. Schulze Icking-Konert
+T. Curcic
+A. Judy
+B. H. Cooper
+A. R. Woll
+J. D. Brock
+S. Kycia
+R. L. Headrick
+Koichi Kato
+Kiyoyuki Terakura
+K. Mortensen
+Y. J. Chabal
+S. B. Christman
+W. Oed
+K. G. Lynn
+Bent Nielsen
+Erik C. Sowa
+P. R. Schwoebel
+G. M. Lamble
+R. S. Brooks
+Robert D. Meade
+J. L. Valles
+R. D. Bringans
+Marjorie A. Olmstead
+R. Z. Bachrach
+D. M. Holmes
+M. Erbudak
+M. Hochstrasser
+D. Pescia
+D. Cvetko
+L. Floreano
+R. Gotter
+A. Morgante
+F. Tommasini
+B. R. Bennett
+B. V. Shanabrook
+A. G. Every
+Jeff Baker
+B. J. Hattink
+Joachim Jacobsen
+G. G. Bishop
+B. J. Hinch
+G. P. Kochanski
+Eunja Kim
+Young Hee Lee
+J. M. Carpinelli
+H. H. Weitering
+G.-M. Rignanese
+J.-C. Charlier
+Anna K. Swan
+E. Rokuta
+C. Oshima
+A. Nagashima
+G. A. Reider
+Leping Li
+T. Suzuki
+Y. Yacoby
+R. Pindak
+R. Clarke
+G. Krausch
+R. X. Ynzunza
+Z. Hussain
+K. Theis-Brohl
+K. Hinrichs
+W. Stigler
+G. Brusdeylins
+A. R. Smith
+J. E. Northrup
+E. Nabighian
+G. Meyer
+Nicola Marzari
+O. Schaff
+V. Fernandez
+Paolo Ruggerone
+V. Yu. Aristov
+J. G. Che
+T. C. Leung
+J. A. Gaspar
+A. G. Eguiluz
+M. Gester
+A. Lock
+M. A. Lutz
+R. A. Dragoset
+R. J. Celotta
+D. Y. Noh
+O. Haase
+M. Borbonus
+H. Huang
+Hua Li
+O. B. Christensen
+M. Manninen
+V. Celli
+D. Himes
+G. Brocks
+P. J. Kelly
+W. Dos Passos
+W. Lowe
+C. Brizard
+Xu-Dong Xiao
+A. A. Maradudin
+R. F. Wallis
+J. C. A. Huang
+S. Janz
+D. J. Bottomley
+H. M. van Driel
+Chong-lin Chen
+A. Nihat Berker
+R. J. Hamers
+J. E. Demuth
+O. Leifeld
+D. Grutzmacher
+K. Kern
+H. Raza
+C. L. Pang
+Sebastiaan van Dijken
+V. Aristov
+E. Wimmer
+Sung-Hoon Lee
+Myung-Ho Kang
+M. H. Xie
+S. M. Seutter
+L. X. Zheng
+Huasheng Wu
+J. A. Martin-Gago
+G. Leonardelli
+W. Hebenstreit
+M. Pinczolits
+Taro Hitosugi
+S. Watanabe
+T. Hasegawa
+A. Mascaraque
+E. G. Michel
+Y. Homma
+V. Zielasek
+B. Bolliger
+E. Rotenberg
+K. Horikoshi
+S. D. Kevan
+T. Ohta
+R. A. Bennett
+P. Stone
+B. Stanka
+F. M. Chua
+U. Breuer
+K. C. Prince
+L. Mailander
+J. Peisl
+K. Grzelakowski
+I. Lyuksyutov
+G. Rossi
+X. Jin
+A. Santaniello
+D. Chandesris
+H. Rabus
+T. Lederer
+P. Fenter
+W. C. Fan
+A. Ignatiev
+T. Aizawa
+Y. Ishizawa
+B. Hillert
+R. L. Park
+L. B. Hansen
+A. Molle
+S. de Gironcoli
+Junren Shi
+Biao Wu
+Sheng Meng
+L. F. Xu
+Carsten Busse
+Celia Polop
+Michael Muller
+Karsten Albe
+Udo Linke
+T. Maroutian
+H.-J. Ernst
+Esther van Vroonhoven
+M. Baumer
+D. Farias
+J. Lobo
+R. Perez
+K. Ravi-Chandar
+O. Bondarchuk
+M. J. Rost
+H. Von Kanel
+M. C. Righi
+C. A. Pignedoli
+R. Di Felice
+C. M. Bertoni
+A. Catellani
+S. Rousset
+S. Gauthier
+W. Sacks
+J. Klein
+T. E. Felter
+O. Grizzi
+H. Bu
+J. W. Rabalais
+R. R. Rye
+P. Nordlander
+T. Gritsch
+G. S. Herman
+M. Yamada
+M. Sokolowski
+C. L. Fu
+B. Heinrich
+P. A. Ignatiev
+V. S. Stepanyuk
+Y. Sato
+S. A. Pauli
+D. Martoccia
+C. Cionca
+Stefan Torbrugge
+Michael Reichling
+C. Hucho
+M. V. Ganduglia-Pirovano
+L. Geelhaar
+D. Sander
+R. Popescu
+W. Pan
+I. Popa
+F. Caruso
+P. C. Snijders
+S. Rogge
+Feliciano Giustino
+M. Ferrario
+K. J. Franke
+P. Gille
+J. P. Pierce
+S. Gunther
+P. Rudolf
+Geng Xu
+Yong Han
+E. Bussmann
+M. M. Banaszak Holl
+Karina Morgenstern
+L. J. Lauhon
+Enzo Granato
+C. Kumpf
+J. H. Zeysing
+Y. Su
+C. M. Chang
+K. R. Roos
+Henri Hansen
+J. Redinger
+R. Podloucky
+F. Schippan
+H. M. Zhang
+Adam Li
+J. Kitamura
+H. Okushi
+S. Yoshida
+K. Kajimura
+J. R. Hahn
+S. H. Cheung
+Zhong-Yi Lu
+Cai-Zhuang Wang
+Kai-Ming Ho
+M. Pedio
+R. Felici
+A. Wander
+F. Schedin
+N. M. Harrison
+A. V. Melechko
+J. Marquez
+K. Jacobi
+Jaime A. Li
+E. A. Akhadov
+F. A. Flaherty
+S. A. Safron
+T. W. Trelenberg
+D. H. Van Winkle
+Massimiliano Di Ventra
+A. Verdini
+F. Bruno
+Ahlam N. Al-Rawi
+Pavlin Staikov
+V. Ozolins
+Paulo B. Miranda
+John F. Wendelken
+M. Alava
+V. M. Burlakov
+K. Hata
+H. Shigekawa
+Robert Juhasz
+S. B. van Albada
+B. Ressel
+K. F. Peters
+O. Robach
+H. Isern
+F.-J. Meyer zu Heringdorf
+L. Osterlund
+D. Ellis
+D. Smilgies
+T. Nakagawa
+M. Nishijima
+T. Aruga
+W. A. Thompson
+W. S. Yang
+R. G. Zhao
+C. F. Quate
+Jin He
+R. Feidenhans¡¯l
+M. Wuttig
+J. Lecante
+G. Treglia
+P. Gambardella
+M. Blanc
+K. Kuhnke
+J. J. Schulz
+W. E. McMahon
+J. M. Olson
+A. Emundts
+C.-W. Hu
+Kwonjae Yoo
+Jurgen Hafner
+Markus Lischka
+Axel Grob
+J. H. Petersen
+Tomonobu Nakayama
+Masakazu Aono
+M. Ondrejcek
+R. S. Appleton
+V. Repain
+S. Surnev
+M. G. Ramsey
+F. P. Netzer
+G. Wedler
+E. Penev
+A. A. Stekolnikov
+L. Savio
+L. Vattuone
+M. Rocca
+Suklyun Hong
+Ja-Yong Koo
+I. A. Vartanyants
+G. J. Williams
+M. A. Pfeifer
+J. A. Pitney
+F. Jensen
+Y. R. Wang
+W. Wurth
+W. Andreoni
+J. Nogami
+A. Bottcher
+H. H. Rotermund
+J. Cunningham
+D. K. Biegelsen
+L.-E. Swartz
+B. E. Weir
+X-M Zhu
+R. Kariotis
+F. A. Thiel
+D. M. Riffe
+G. K. Wertheim
+Zhian He
+W. Dong
+J. Y. Zhu
+Shao-Chun Li
+A. Lazarides
+H. R. Sharma
+V. Fournee
+M. Shimoda
+A. P. Tsai
+L. Vitali
+M. A. Schneider
+Lei Liu
+Takehiro Tanikawa
+Iwao Matsuda
+Shuji Hasegawa
+F. Bisio
+S. Terreni
+G. Gonella
+M. Canepa
+L. Mattera
+H. F. Wilson
+N. A. Marks
+S. R. Schofield
+N. J. Curson
+P. V. Smith
+M. W. Radny
+D. R. McKenzie
+M. Y. Simmons
+G. Alexandrowicz
+A. P. Jardine
+W. Allison
+G. Hadjisavvas
+K. Seino
+H. Yanagisawa
+T. Tanaka
+Y. Ishida
+Andreas Klust
+T. Eguchi
+P. Czoschke
+L. Basile
+Shih-Hsin Chang
+Lih-Juann Chen
+Georgiana Stoian
+Herbert Wormeester
+A. Stenborg
+D. H. Rich
+T. -C. Chiang
+M. D. Pashley
+K. W. Haberern
+J. M. Woodall
+P. D. Kirchner
+L. Miglio
+L. J. Norton
+S. Wansleben
+M. Eiswirth
+Jae-Yel Yi
+F. Fabre
+J. Lapujoulade
+D. E. Fowler
+Y. G. Ding
+G. D. Pettit
+A. Reichmuth
+P. Ruggerone
+G. Helgesen
+Jia Wang
+M. Methfessel
+J. V. Barth
+J. A. Meyer
+Shobhana Narasimhan
+Erik Landemark
+Y.-C. Chao
+X.-P. Li
+H. Stadler
+H. Magnan
+P. Le Fevre
+A. Cossaro
+Baris Unal
+Feili Qin
+Dapeng Jing
+N. N. Negulyaev
+A. Tejeda
+M. Wisniewski
+J. Schafer
+R. Claessen
+Y. Wang
+R. G. Moore
+J. Rundgren
+P. Laukkanen
+M. P. J. Punkkinen
+H.-P. Komsa
+M. Ahola-Tuomi
+K. Kokko
+M. Kuzmin
+J. Adell
+J. Sadowski
+R. E. Perala
+M. Ropo
+T. T. Rantala
+I. J. Vayrynen
+M. Pessa
+L. Vitos
+J. Kollar
+S. Mirbt
+Michiaki Ohara
+Hojin Jeong
+Han Woong Yeom
+J. Hass
+J. E. Millan-Otoya
+M. Sprinkle
+W. A. de Heer
+C. Berger
+P. N. First
+E. A. Jagla
+Jing Wu
+K. Hojrup Hansen
+Peter Kratzer
+F. Ciccacci
+P. H. Beton
+P. Moriarty
+M. D. Upward
+C. Ottaviani
+M. O. Pedersen
+P. Fini
+J. S. Speck
+S. P. DenBaars
+V. Musolino
+S. Heinze
+M. Shimomura
+S. Hara
+K. Tono
+B. S. Mun
+T. Tyliszczak
+A. P. Hitchcock
+T. N. Horsky
+G. R. Brandes
+K. F. Canter
+S. F. Horng
+D. L. Lessor
+K. Stevens
+P. Santini
+P. H. Lippel
+A. Samsavar
+H. F. Lin
+P. P. Patil
+D. M. Phase
+S. K. Kulkarni
+S. M. Kanetkar
+S. B. Ogale
+V. G. Bhide
+P. D. Bristowe
+T. L. Reinecke
+C. H. Richardson
+Wondong Kim
+Sonke Lorenz
+X. Blase
+O. Trushin
+R. Lindsay
+B. Montanari
+Kedong Wang
+Chun Zhang
+Yu Jia
+H. Guesmi
+L. Lapena
+P. Muller
+V. Panella
+C. Wigren
+George H. Gilmer
+H. Kuhlenbeck
+A. Schmalz
+S. Aminpirooz
+L. Becker
+D. R. Batchelor
+C. E. Aumann
+Liqiu Yang
+Horst Niehus
+P. Eisenberger
+Hang Xu
+W. N. Creager
+D. J. Friedman
+I. Lindau
+H. Hakkinen
+R. S. Daley
+M. L. Hildner
+K. Hricovini
+J. E. Bonnet
+Michael Bott
+D. T. Pierce
+H. B. Elswijk
+R. Fink
+G. Schatz
+J. Mendez
+P. L. de Andres
+Y. Girard
+Madhura Marathe
+Y. Le Bouar
+S. Mechler
+S. E. Stoltz
+O. G. Shpyrko
+M. Meron
+M. Pierno
+Stephen J. Pennycook
+Kenji Hata
+Shoji Yoshida
+V. Blum
+Ch. Schmidt
+W. Meier
+J.-S. Filhol
+M. De Santis
+D. Simon
+R. Baudoing-Savois
+P. Sautet
+Zheng Gai
+Shiro Tsukamoto
+Seung Mi Lee
+W. P. Lau
+Koji S. Nakayama
+E. Graugnard
+J. H. Weaver
+B. Voigtlander
+Xuan Luo
+G. Ballabio
+S. Scandolo
+P. Senet
+A. A. Lucas
+D. Wolf
+J. Hafner
+T. Kawamura
+Per Stoltze
+Bernd Kohler
+R. Gunnella
+C. R. Natoli
+B. Poelsema
+M. S. Daw
+C. A. Meli
+E. F. Greene
+G. Lange
+Giorgio Mazzeo
+C. Meyer
+G. Lupke
+U. Emmerichs
+F. Wolter
+H. Kurz
+C. H. Bjorkman
+G. Lucovsky
+Yuanlin Xie
+Christian Jakobsen
+S. H. Xu
+M. Keeffe
+Y. Yang
+G. J. Lapeyre
+J. Denlinger
+X. Jiang
+C. L. Jia
+G. J. Jackson
+B. C. C. Cowie
+R. G. Jones
+A. S. Y. Chan
+M. Kastner
+A. Barbier
+S. Folsch
+J. Repp
+Enge Wang
+Y. Gao
+O. Groning
+L. Schlapbach
+P. Groning
+B. Z. Nosho
+P. A. Rikvold
+Masashi Ozeki
+E. A. Kotomin
+T. M. Galea
+E. Zoethout
+Christian Carbogno
+K. L. Man
+G. Cabailh
+O. Bikondoa
+F. Jona
+T. Zambelli
+Madhavan Ramamoorthy
+A. P. Horsfield
+D. G. Pettifor
+Takahiro Yamasaki
+S. Wilke
+R. Fasel
+P. Aebi
+R. G. Agostino
+D. Naumovic
+A. Fischer
+K. Eberl
+Young-Jo Ko
+Seong-Ju Park
+El-Hang Lee
+K. J. Chang
+C. M. Goringe
+J. L. Sudijono
+E. Umbach
+Markus Morgenstern
+Tsu-Yi Fu
+Yi-Ren Tzeng
+S. Jay Chey
+Joseph E. Van Nostrand
+Yongsam Kim
+J. W. Kim
+N. D. Kim
+Alex Redinger
+Adam S. Foster
+A. Bostwick
+K. V. Emtsev
+Th. Seyller
+T. J. Stasevich
+Harumo Morikawa
+T.-L. Chan
+L. Niebergall
+E. Heifets
+J. Maier
+M. Fonin
+Yu. S. Dedkov
+U. Rudiger
+G. Guntherodt
+N. Ferralis
+P. C. Canfield
+Shinya Wakunami
+J. Martinez-Blanco
+V. Joco
+P. Segovia
+A. Rodriguez-Prieto
+R. I. Eglitis
+G. Borstel
+M. Rajappan
+A. Riemann
+C. Bonet
+D. J. Spence
+T. J. Wood
+T. C. Q. Noakes
+P. Bailey
+S. P. Tear
+E. Soyka
+O. Pulci
+G. Zampieri
+L. Petaccia
+J. E. Gayone
+S. V. Hoffmann
+Kazuyuki Sakamoto
+A. Pick
+S. Hatta
+H. Okuyama
+A. W. Potts
+G. R. Morrison
+A. Barinov
+L. Gregoratti
+K. Kadas
+R. Ahuja
+Zhihua Sun
+Qingwei Liu
+Yufen Li
+Jun Zhuang
+N. Binggeli
+J. Jalkanen
+Rolf Heid
+Klaus Peter Bohnen
+J. Konttinen
+G. Bavdek
+Y. Watanabe
+R. Sporken
+Y. Takagaki
+F. Hontinfinde
+Tzu-Liang Chan
+M. J. Harrison
+J. Robinson
+A. Krivosheeva
+M. M. G. Alemany
+A. Coati
+K. Pedersen
+P. Morgen
+A. Klein
+E. Carrasco
+B. Krenzer
+I. R. Fisher
+A. Hallil
+R. Tetot
+F. Berthier
+I. Braems
+G. M. Buendia
+M. Preuss
+Kenji Mawatari
+Kanta Ono
+Nobuo Ueno
+P. D. Quinn
+C. Franchini
+V. Bayer
+G. Parteder
+Sondan Durukano?lu
+Hiroyuki S. Kato
+E. A. Soares
+R. Paniago
+V. E. de Carvalho
+E. L. Lopes
+F. Szalma
+M. Degawa
+Y. Yamashita
+K. Mukai
+Ying Zhang
+Shenghua Deng
+Tianmin Wang
+Masanori Kohyama
+Ryoichi Yamamoto
+Howard L. Richards
+M. Eddrief
+M. Marangolo
+F. Sirotti
+M. Kraj?i
+X. Zhang
+J. A. Steckel
+Euijoon Yoon
+S. More
+C. Tegenkamp
+A. Ouerghi
+G. J. Xu
+B. R. Trenhaile
+Y. Temko
+Min Zhuang
+Li Zhao
+A. N. Baranov
+Ronny Van Moere
+S. Baud
+C. Polop
+C. Kumpf
+A. Muller
+W. Weigand
+S. Thachepan
+T. Ando
+V. M. Rozenbaum
+A. N. Morozov
+S. H. Lin
+Ch. Boas
+T. Tanikawa
+C. M. C. de Castilho
+W. T. Geng
+V. N. Antonov
+J. S. Palmer
+A. S. Bhatti
+L. Kilian
+P. Salo
+C. Herrmann
+H. Enriquez
+I. Yu. Sklyadneva
+G. G. Rusina
+Shi-Yu Wu
+Dominic R. Alfonso
+John E. Jaffe
+Anthony C. Hess
+Maciej Gutowski
+G. V. Hansson
+Toru Hirahara
+Canhua Liu
+E. Ogando
+N. Zabala
+M. J. Puska
+Jung-Yup Lee
+W. Hofer
+N. Kasper
+R. Graupner
+N. Sieber
+L. Ley
+J. D. Riley
+R. C. G. Leckey
+D. M. Goodner
+D. L. Marasco
+A. A. Escuadro
+Shiro Yamazaki
+Rei Hobara
+Fumio S. Ohuchi
+A. Ross
+P. F. Lyman
+V. L. Shneerson
+E. D. Lu
+S. S. Parihar
+H. Q. Shi
+Z. Kuntova
+D. D. Fong
+S. V. Eremeev
+S. D. Borisova
+James B. Adams
+J. J. Paggel
+X. Chen
+J. Tani
+N. S. Luo
+M. Ott
+J. A. Vamvakas
+R. Opitz
+S. van Dijken
+V. Pouthier
+M. Buchel
+Ch. Rath
+V. Holy
+C. Giannini
+L. Tapfer
+T. Marschner
+W. Stolz
+K. Miyake
+Y.-R. Ma
+A. W. Dunn
+A. A. Cafolla
+G. Hughes
+D. Teehan
+B. Murphy
+V. Scheuch
+T. Hanada
+H. Daimon
+S. Ino
+W. R. A. Huff
+Y. Chen
+S. A. Kellar
+E. J. Moler
+Y. Zheng
+A. E. Schach von Wittenau
+Z. Q. Huang
+D. A. Shirley
+G. Klos
+R. Sawitzki
+Masahiko Ishida
+Kang-Ho Park
+Jeong Sook Ha
+Wan Soo Yun
+Jae-Sung Kim
+T. Ueda
+M. Akiyama
+J. Spitzmuller
+M. Fehrenbacher
+H. Rauscher
+J. Hayoz
+J. L. Libbert
+C. Ratsch
+Toshihiro Uchiyama
+E. Landree
+G. Kopidakis
+H. L. Skriver
+F. Romanato
+D. De Salvador
+M. Berti
+A. Drigo
+M. Natali
+M. Tormen
+G. Rossetto
+S. Pascarelli
+C. Lamberti
+S. Mobilio
+Xiaowei Li
+E. M. McCash
+Ch. Jung
+W. Berndt
+D. R. Bowler
+K. Miki
+Mineo Saito
+Yoshiyuki Miyamoto
+C. J. Lanczycki
+T.-L. Lee
+Jianjun Xie
+David A. Drabold
+H. Hamamatsu
+T. Yokoyama
+Krzysztof Rapcewicz
+Gefei Qian
+G. R. Gomez
+E. A. Sanchez
+J. C. Dunphy
+Takanori Wakita
+Shozo Suto
+Atsuo Kasuya
+Chanyong Hwang
+Dal-Hyun Kim
+Sekyung Lee
+C. Adler
+R. Honke
+S. Picaud
+P. N. M. Hoang
+H. Chen
+M. Pristovsek
+Ch. Schultz
+J. Wollschlager
+E. Z. Luo
+B. Feldmann
+B. Schirmer
+G. S. Dong
+Kozo Kimura
+Shiro Miwa
+Tetsuji Yasuda
+Takafumi Yao
+C. Rojas
+E. Roman
+D. Cocco
+R. Notzel
+C. F. McConville
+L. Lottermoser
+Xiao Tong
+J. W. Anderegg
+L. Wilde
+W. H. Choi
+D. Spisak
+Joachim Wollschlager
+C. N. Cionca
+M. Polcik
+Feng-Chuan Chuang
+D. Dunham
+J. D. Denlinger
+A. Herrera-Gomez
+S. Cereda
+Y. K. Kim
+C.-Y. Park
+H. Koh
+Louis G. Hector, Jr.
+I. Joumard
+Harry A. Atwater
+T. Hammerschmidt
+Chia-Hsiu Hsu
+V. Yeh
+K. Mohseni
+M. K. Kim
+D.-H. Oh
+I. Song
+J. H. Nam
+S. H. Woo
+S.-C. Ying
+N. Stojic
+T. O. Mentes
+M. A. Nino
+C. A. F. Vaz
+E. I. Altman
+V. E. Henrich
+E. Airiskallio
+E. Nurmi
+Taisuke Ohta
+J. J. K. Lang
+V. Tuominen
+A. Schmidt
+W. Meyer
+N. Rasanen
+J. Lang
+M. Richter
+V. Langlais
+Y. Gauthier
+J. D. Comins
+C. C. Hwang
+Th. Deniozou
+R. Addou
+A. K. Shukla
+M. Heggen
+R. Widmer
+J.-M. Dubois
+Hiroyuki Okino
+Woosang Lee
+Hyungjoon Shim
+R. K. Kremer
+R. Lauck
+G. Siegle
+A. Munoz
+R. Mader
+W. Steurer
+J. I. Lee
+W. Mannstadt
+R. Zivieri
+Alexander I. Livshits
+Alexander L. Shluger
+Andrew L. Rohl
+Guido L. Chiarotti
+A. Theobald
+J. Muscat
+K. Aid
+Maria Grazia Betti
+Carlo Mariani
+Alessio Filippetti
+E. L. Briggs
+V. Emiliani
+C. Goletti
+A. M. Frisch
+Y. Hwu
+Takuji Komura
+Takashi Hanada
+A. L. Glebov
+H. S. Kim
+C. Y. Park
+K. J. Kim
+T.-H. Kang
+B. Kim
+A. Baldereschi
+M. Li
+M. Gothelid
+A. Cricenti
+T. Fukuda
+V. Chab
+Xiaoming Hu
+C. Domke
+P. Baumgartel
+X. Y. Zhang
+Y. Tian
+P. M. Marcus
+J. L. Sacedon
+Y. Kitajima
+S. Terada
+S.-H. Liou
+P. A. Dowben
+Y. C. Chou
+J. Herfort
+Marisol Alcantara Ortigoza
+L. H. Wearing
+Georg H. Enevoldsen
+Jeppe V. Lauritsen
+Won Hoon Choi
+Keun Su Kim
+E. Rauls
+Honggang Ye
+Guangde Chen
+Yelong Wu
+Youzhang Zhu
+R. Leitsmann
+P. Torelli
+Jonathan A. Adams
+Qiuming Yu
+Y. Fukuda
+C. Heske
+J. Hirvonen Grytzelius
+T. L. Lee
+O. Romanyuk
+P. T. Sprunger
+H. S. Wu
+S. Mollenbeck
+Tadaaki Nagao
+G. Hollinger
+M. Kammler
+Handan Yildirim
+J. D. Fuhr
+Fumitaka Nakamura
+Sang-Yong Yu
+T. Duguet
+T. Schroeder
+A. Herrera-Gomez
+C. Bittencourt
+Y. D. Kim
+R. Terborg
+E. Asari
+M. Enderle
+Jonggeol Kim
+I. Chizhov
+H. Mai
+R. F. Willis
+J. Slezak
+Masamichi Yoshimura
+Kazuyuki Ueda
+D. I. Bazhanov
+P. H. Dederichs
+Kwang S. Kim
+F. Picaud
+Shuang Meng
+M.-H. Tsai
+F.-X. Zha
+R. Czerw
+D. L. Carroll
+S. Roth
+M. F. Gyure
+M. Kang
+D. Passerone
+F. Traeger
+H. Weiss
+H. Oughaddou
+B. Aufray
+J. E. Sipe
+C. Norris
+Michael J. Bedzyk
+P. Perfetti
+M. Peloi
+N. Ohtani
+J. Quinn
+K.-W. Lin
+E. Le Goff
+J. Jiruse
+B. W. Busch
+Gregorio H. Cocoletzi
+U. O. Karlsson
+P. E. J. Eriksson
+F. Grosse
+Yao He
+J. Ciston
+A. R. McGurn
+B. M. Trafas
+I. M. Vitomirov
+F. Xu
+M. L. Xu
+S. Lehwald
+Y. Enta
+S. Suzuki
+K.-G. Huang
+W. M. Gibson
+G. Chern
+W. P. Brug
+J. A. Jaszczak
+D. M. Goodstein
+M. De Crescenzi
+Steven G. Anderson
+F. W. de Wette
+A. D. Kulkarni
+J. M. Yao
+H. B. Saalfeld
+M. Neumann
+L. Yang
+H. Stasiewski
+D. Sondericker
+Jan H. van der Merwe
+K. E. Khor
+Herbert Kunert
+J. S. Vickers
+G. Armand
+M. Onchi
+F. R. McFeely
+Mohamed H. Mohamed
+L. L. Kesmodel
+H. Li
+S. C. Wu
+D. Tian
+Y. S. Li
+E. Kirsten
+T. N. Taylor
+D. L. Mills
+Ulrich Becher
+S.-C. Lui
+R. Baudoing
+Ruth Klauser
+Masakazu Kubota
+I. Majid
+R. W. Balluffi
+M. R. Wilby
+S. Clarke
+Y. Sasaki
+P. Bauerle
+Saul D. Cohen
+J. A. Rodriguez
+U. Tartaglino
+Wakaba Takeyama
+J. R. Power
+K. J. Caspersen
+L. X. Cao
+L. H. Chan
+J. B. Giorgi
+Dong-Hwa Oh
+E. Vasco
+Th. Becker
+E. Wiebicke
+Ari P Seitsonen
+A. Kazimirov
+G. Scherb
+M. C. Qian
+Z. Papadopolos
+G. Kasner
+E. J. Cox
+M. Caragiu
+Markus Bierkandt
+Klaus Kuhnke
+Burl M. Hall
+G. Marowsky
+R. Steinhoff
+L. F. Chi
+M. K. Kelly
+D. Kilday
+G. Margaritondo
+Zhangda Lin
+S. H. Lu
+Z. Q. Wang
+C. K. C. Lok
+L. Colombo
+X. Q. Wang
+D. M. Ren
+D. M. Hill
+Z. Hurych
+P. L. Wincott
+Sergio E. Ulloa
+C. P. Wang
+V. De Renzi
+A. Lausi
+Shaoping Tang
+Yonglin Qian
+M. Heinrich
+M. Simon
+R. B. Capaz
+H. Lim
+J. K. No/rskov
+R. G. White
+M. H. Lee
+R. I. R. Blyth
+P. Castrucci
+S. Lagomarsino
+F. Scarinci
+V. Milman
+M. Kuball
+D. T. Wang
+Eli Rotenberg
+Keh-Dong Shiang
+Hiroyuki Tanaka
+J. Schmidt
+Angelo Barbieri
+Michel A. Van Hove
+M. Bohringer
+P. Molinas-Mata
+A. I. Borovkov
+Chien Liu
+M. Wassermeier
+P. Kaukasoina
+M. Lindroos
+P. S. Kop¡¯ev
+S. Kodiyalam
+J. Kishimoto
+M. Zhang
+M. Xu
+X. G. Zhu
+Xun Wang
+H. B. Pan
+P. S. Xu
+C. Y. Fan
+R. E. Martinez
+Paul J. E. Reese
+X. F. Lin
+R. Sooryakumar
+M. H. Manghnani
+O. S. Trushin
+Norio Sato
+P. B. Joyce
+T. J. Krzyzewski
+E. C. Le Ru
+R. Murray
+P. O. Nilsson
+S. Mankefors
+T. A. Arias
+O. Gurlu
+L. Grill
+Th. Wiebach
+Osamu Takeuchi
+V. Senz
+M. Benes
+A. R. Layson
+M. Chirita
+P. Fonteneau
+C. F. Liu
+S. Malik
+D. Childs
+A. W. Kay
+F. J. Garcia de Abajo
+S.-H. Yang
+E. Arenholz
+N. Mannella
+P. C. Chow
+Masami Terauchi
+Shingo Tanaka
+M. Zorn
+Kaoru Ojima
+G. B. Olson
+K. Ono
+M. Oshima
+A. Kakizaki
+S. Walter
+H. Yanagita
+Ming-ren Yu
+M. Balden
+G. S. Leatherman
+J. Behrend
+Hang Ji
+S. Miret-Artes
+E. S. Gillman
+Hiroshi Sakama
+Masahiro Yamamoto
+M. Sugiyama
+S. Maeyama
+G. Ritz
+Tomoshige Sato
+Takashi Sueyoshi
+Takaaki Amakusa
+Masashi Iwatsuki
+M. A. Vicente Alvarez
+Kuo-Jen Chao
+P. A. Knipp
+I. H. Hong
+Z. Q. He
+J. Kanski
+Fumihiko Maeda
+Srilal M. Weera
+J. J. Hernandez
+Jun Yamauchi
+G. LeLay
+P. S. Mangat
+H. Oigawa
+R. Rincon
+P. T. Salo
+R. Laihia
+K. Mansikka
+C. Schwennicke
+L. T. Romano
+S. A. Stepanov
+M. Casarin
+E. Y. Lee
+H. Sirringhaus
+R. Caudano
+S. Bouzidi
+F. Coletti
+J.-L. Guyaux
+J. M. Debever
+K. J. Wan
+Y. S. Luo
+P. Bratu
+A. M. Begley
+K. M. Schirm
+I. Sumita
+Z. Jing
+U. Winkler
+P. R. Bressler
+R. G. Pregliasco
+M. Ramsteiner
+S. A. Chambers
+J. C. Jiang
+Ilya Chizhov
+Roy F. Willis
+E. A. Kondrashkina
+S. D¡¯Addato
+G. Kern
+H. Kuroda
+R. J. Wagner
+Y. Shapira
+C. Capasso
+M. del Giudice
+P. Jiang
+G. P. Carey
+D. E. Moncton
+J. J. Joyce
+M. W. Ruckman
+Yoram Shapira
+M. N. Piancastelli
+D. J. Frankel
+Hidenori Ashima
+James B. Adam
+T. Cai
+T. Lograsso
+Wingham Zhang
+R. Matzdorf
+T. Kimura
+Y. Tokura
+S. T. Jemander
+Xi Liu
+R. E. Caflisch
+M. Patting
+A. di Bona
+E. J. van Loenen
+M. G. Dondi
+A. E. M. J. Fischer
+M. Sacchi
+G. Dufour
+F. Rochet
+S. H. Ke
+R. Wu
+Wakio Uchida
+P. J. Hardman
+G. Galli
+Yoshio Watanabe
+A. Cucchetti
+T. C. G. Reusch
+N. Moll
+J. Lindner
+P. Poulopoulos
+J. L. O¡¯Brien
+R. G. Clark
+Jung Mee Park
+G. Godzik
+T. Block
+Y. J. Sun
+J. S. Okasinski
+E. Groppo
+C. Prestipino
+A. J. Sievers
+J. F. Morar
+Y. U. Idzerda
+Z. P. Hu
+N. J. Wu
+M. Tischer
+L. Troger
+P. Akavoor
+G. S. Glander
+J. F. Jia
+M. J. Ramstad
+L. Deng
+H. Grille
+M. S. Finney
+R. G. van Silfhout
+M. Udagawa
+V. Etelaniemi
+D. Purdie
+N. S. Prakash
+M. Chander
+Y. Z. Li
+J. C. Patrin
+W. K. Ford
+Katsuya Takaoka
+H. Hornis
+R. Ellialtiog?lu
+R. B. Phelps
+T. Hertel
+C. Tornevik
+T. M. Grehk
+S. A. Flodstrom
+P. Cantini
+F. J. Lamelas
+K. Ludge
+H. Zajonz
+M. R. Baldan
+A. G. Norris
+B. J. Min
+Y. H. Lee
+Ken T. Park
+M. Skottke-Klein
+T. N. Rhodin
+T. Guo
+Q. T. Jiang
+K. Prabhakaran
+K. Kobayashi
+D. Dijkkamp
+L. I. Johansson
+K. L. Hakansson
+D. R. Warburton
+L. Q. Wang
+Z. G. Ji
+D. H. Baek
+Bo Gao
+D. Schmicker
+M. Bjorkqvist
+P. Zoccali
+A. Bonanno
+L. Koenders
+A. Ruocco
+L. Spiess
+M. Nowicki
+H. H. Brongersma
+Dominik Marx
+Dengke Yu
+H. Tokumoto
+E. S. Hirschorn
+K. M. Choudhary
+M. H. Kang
+A. Resta
+R. Westerstrom
+F. Mittendorfer
+M. S. Worthington
+A. D. Johnson
+H. Schulz
+Jianming Cao
+P. Gumbsch
+Gunzi Saito
+Yoshio Saito
+M. Stolzenberg
+N. Minami
+G. E. Crook
+Jing Wang
+Zhen Ye
+N. Seriani
+J. C. Hermanson
+R. L. Siefert
+Li-Qiong Wang
