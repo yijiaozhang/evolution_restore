@@ -48,7 +48,7 @@ $pip install -r requirements.txt
 
 
 
-# The files in the fold of deepwalk, node2vec, sdne, struct2vec and line are downloaded from https://github.com/shenweichen/GraphEmbedding.
+### The files in the fold of deepwalk, node2vec, sdne, struct2vec and line are downloaded from https://github.com/shenweichen/GraphEmbedding.
 
 
-# If you have any questions, you can contact the author via <wangjy293@gmail.com>.
+### If you have any questions, you can contact the author via <wangjy293@gmail.com>.
