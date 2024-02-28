@@ -1,6 +1,6 @@
 # Introduction
 
-This repository hosts the code for paper "Reconstructing the evolution history of networked complex systems. Junya Wang, Yi-Jiao Zhang, Cong Xu, Jiaze Li, Jiachen Sun, Jiarong Xie, Ling Feng, Tianshou Zhou, and Yanqing Hu".
+This repository hosts the code and data for paper "Reconstructing the evolution history of networked complex systems. Junya Wang, Yi-Jiao Zhang, Cong Xu, Jiaze Li, Jiachen Sun, Jiarong Xie, Ling Feng, Tianshou Zhou, and Yanqing Hu".
 
 The folder `code_machine_learning` contains code for our machine learning model to generate the reconstructed edge sequence of a given network.
 
